@@ -1,11 +1,11 @@
 window.__ORGS__ = {
   "environment": "demo",
-  "generatedAt": "2026-07-07T09:02:37Z",
+  "generatedAt": "2026-07-08T08:49:19Z",
   "summary": {
-    "total": 39,
+    "total": 41,
     "internal": 0,
-    "external": 39,
-    "withCatalog": 31
+    "external": 41,
+    "withCatalog": 32
   },
   "organizations": [
     {
@@ -337,12 +337,12 @@ window.__ORGS__ = {
       "cluster_index": "001",
       "name": "Demo Organization r195514-o1",
       "type": "External",
-      "ownerEmail": "owner.r195514-o1@demo.com",
-      "ownerDomain": "demo.com",
-      "contractNumber": "4aac9dc6dc3843cbb24a041144425713",
+      "ownerEmail": null,
+      "ownerDomain": null,
+      "contractNumber": null,
       "effectiveDate": "2026-07-02T00:00:00+00:00",
       "expiryDate": "2026-07-08T00:00:00+00:00",
-      "hasCatalog": true
+      "hasCatalog": false
     },
     {
       "tenant": "441fb432-88fd-4a3c-b5a1-206808aa97cc",
@@ -474,6 +474,30 @@ window.__ORGS__ = {
       "contractNumber": "968199c7967f40a4b03d860f884086f8",
       "effectiveDate": "2026-07-06T00:00:00+00:00",
       "expiryDate": "2027-06-30T00:00:00+00:00",
+      "hasCatalog": true
+    },
+    {
+      "tenant": "53963ff6-7902-4e8c-8e9f-d2ecc2436b1d",
+      "cluster_index": "001",
+      "name": "ewfasdss",
+      "type": "External",
+      "ownerEmail": "engineer_3.bugbounty08@demo.com",
+      "ownerDomain": "demo.com",
+      "contractNumber": "d279b2b0944c4ad591570127e22b0c94",
+      "effectiveDate": "2026-07-07T00:00:00+00:00",
+      "expiryDate": "2027-07-07T00:00:00+00:00",
+      "hasCatalog": true
+    },
+    {
+      "tenant": "67e82ed4-93a1-4827-b1ef-419f1698d698",
+      "cluster_index": "001",
+      "name": "Demo Organization r2000000130-o1",
+      "type": "External",
+      "ownerEmail": "owner.r2000000130-o1@demo.com",
+      "ownerDomain": "demo.com",
+      "contractNumber": "b234903a0bf748baae425e090c61d9c8",
+      "effectiveDate": "2026-07-07T00:00:00+00:00",
+      "expiryDate": "2026-07-10T00:00:00+00:00",
       "hasCatalog": true
     }
   ]
