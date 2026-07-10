@@ -1,9 +1,9 @@
 window.__ORGS__ = {
   "environment": "demo",
-  "generatedAt": "2026-07-09T09:02:11Z",
+  "generatedAt": "2026-07-10T09:01:51Z",
   "summary": {
-    "total": 32,
-    "internal": 0,
+    "total": 33,
+    "internal": 1,
     "external": 32,
     "withCatalog": 31
   },
@@ -385,11 +385,23 @@ window.__ORGS__ = {
       "cluster_index": "001",
       "name": "Demo Organization r2000000130-o1",
       "type": "External",
-      "ownerEmail": "owner.r2000000130-o1@demo.com",
-      "ownerDomain": "demo.com",
-      "contractNumber": "b234903a0bf748baae425e090c61d9c8",
+      "ownerEmail": null,
+      "ownerDomain": null,
+      "contractNumber": null,
       "effectiveDate": "2026-07-07T00:00:00+00:00",
       "expiryDate": "2026-07-10T00:00:00+00:00",
+      "hasCatalog": false
+    },
+    {
+      "tenant": "68b9c20f-0e4d-40a9-828a-f0d364675801",
+      "cluster_index": "001",
+      "name": "TenantFTRA Test",
+      "type": "Internal",
+      "ownerEmail": "deisycarolina.ossa@rockwellautomation.com",
+      "ownerDomain": "rockwellautomation.com",
+      "contractNumber": "94ce942eb06f48849948fcd24dde970f",
+      "effectiveDate": "2026-07-09T00:00:00+00:00",
+      "expiryDate": "2027-07-09T00:00:00+00:00",
       "hasCatalog": true
     }
   ]
