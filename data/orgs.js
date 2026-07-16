@@ -1,11 +1,11 @@
 window.__ORGS__ = {
   "environment": "demo",
-  "generatedAt": "2026-07-15T08:44:21Z",
+  "generatedAt": "2026-07-16T08:43:51Z",
   "summary": {
     "total": 30,
     "internal": 1,
     "external": 29,
-    "withCatalog": 29
+    "withCatalog": 28
   },
   "organizations": [
     {
@@ -309,18 +309,6 @@ window.__ORGS__ = {
       "hasCatalog": true
     },
     {
-      "tenant": "53963ff6-7902-4e8c-8e9f-d2ecc2436b1d",
-      "cluster_index": "001",
-      "name": "ewfasdss",
-      "type": "External",
-      "ownerEmail": "engineer_3.bugbounty08@demo.com",
-      "ownerDomain": "demo.com",
-      "contractNumber": "d279b2b0944c4ad591570127e22b0c94",
-      "effectiveDate": "2026-07-07T00:00:00+00:00",
-      "expiryDate": "2027-07-07T00:00:00+00:00",
-      "hasCatalog": true
-    },
-    {
       "tenant": "68b9c20f-0e4d-40a9-828a-f0d364675801",
       "cluster_index": "001",
       "name": "TenantFTRA Test",
@@ -337,12 +325,12 @@ window.__ORGS__ = {
       "cluster_index": "001",
       "name": "Demo Organization r196411-o1",
       "type": "External",
-      "ownerEmail": "owner.r196411-o1@demo.com",
-      "ownerDomain": "demo.com",
-      "contractNumber": "b445d845e9a947d5843914431c372d09",
+      "ownerEmail": null,
+      "ownerDomain": null,
+      "contractNumber": null,
       "effectiveDate": "2026-07-13T00:00:00+00:00",
       "expiryDate": "2026-07-16T00:00:00+00:00",
-      "hasCatalog": true
+      "hasCatalog": false
     },
     {
       "tenant": "3ffbf5a0-7c46-4c14-b4d2-0d463bdb767b",
@@ -366,6 +354,18 @@ window.__ORGS__ = {
       "contractNumber": "4ea4e2edbad44e00b0c605a1db44cb10",
       "effectiveDate": "2026-07-14T00:00:00+00:00",
       "expiryDate": "2026-07-17T00:00:00+00:00",
+      "hasCatalog": true
+    },
+    {
+      "tenant": "beda27fc-374f-4b5c-abe3-1ee91553abda",
+      "cluster_index": "001",
+      "name": "gsdf",
+      "type": "External",
+      "ownerEmail": "engineer_3.bugbounty08@demo.com",
+      "ownerDomain": "demo.com",
+      "contractNumber": "8c532ec817fd46058bde22781f11d684",
+      "effectiveDate": "2026-07-08T00:00:00+00:00",
+      "expiryDate": "2027-07-08T00:00:00+00:00",
       "hasCatalog": true
     }
   ]
