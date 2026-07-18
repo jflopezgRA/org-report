@@ -1,11 +1,11 @@
 {
   "environment": "demo",
-  "generatedAt": "2026-07-17T08:42:11Z",
+  "generatedAt": "2026-07-18T08:33:01Z",
   "summary": {
     "total": 31,
     "internal": 1,
     "external": 30,
-    "withCatalog": 27
+    "withCatalog": 26
   },
   "organizations": [
     {
@@ -25,12 +25,12 @@
       "cluster_index": "001",
       "name": "monitoring-hub",
       "type": "External",
-      "ownerEmail": "rockwell.automation.9@gmx.com",
-      "ownerDomain": "gmx.com",
-      "contractNumber": "436e698c38a14bf69917e4308cd37e6e",
+      "ownerEmail": null,
+      "ownerDomain": null,
+      "contractNumber": null,
       "effectiveDate": "2024-10-02T00:00:00+00:00",
       "expiryDate": "2025-10-02T00:00:00+00:00",
-      "hasCatalog": true
+      "hasCatalog": false
     },
     {
       "tenant": "d023d1e9-c9b0-4caa-9912-dce63fc79671",
