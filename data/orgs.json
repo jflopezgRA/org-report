@@ -1,11 +1,11 @@
 {
   "environment": "demo",
-  "generatedAt": "2026-07-19T08:44:31Z",
+  "generatedAt": "2026-07-20T09:00:09Z",
   "summary": {
-    "total": 31,
+    "total": 32,
     "internal": 1,
-    "external": 30,
-    "withCatalog": 25
+    "external": 31,
+    "withCatalog": 26
   },
   "organizations": [
     {
@@ -379,6 +379,18 @@
       "effectiveDate": "2026-07-17T00:00:00+00:00",
       "expiryDate": "2026-07-19T00:00:00+00:00",
       "hasCatalog": false
+    },
+    {
+      "tenant": "d6c08962-5c14-4873-bf9a-7b5b3e27c1db",
+      "cluster_index": "001",
+      "name": "Demo Organization r197228-o1",
+      "type": "External",
+      "ownerEmail": "owner.r197228-o1@demo.com",
+      "ownerDomain": "demo.com",
+      "contractNumber": "68e3a76dcdda46419bf07e1c02280e29",
+      "effectiveDate": "2026-07-20T00:00:00+00:00",
+      "expiryDate": "2026-07-23T00:00:00+00:00",
+      "hasCatalog": true
     }
   ]
 }
