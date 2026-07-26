@@ -1,11 +1,11 @@
 window.__ORGS__ = {
   "environment": "demo",
-  "generatedAt": "2026-07-25T08:38:17Z",
+  "generatedAt": "2026-07-26T08:45:43Z",
   "summary": {
     "total": 37,
     "internal": 1,
     "external": 36,
-    "withCatalog": 26
+    "withCatalog": 25
   },
   "organizations": [
     {
@@ -445,12 +445,12 @@ window.__ORGS__ = {
       "cluster_index": "001",
       "name": "Demo Organization r197588-o1",
       "type": "External",
-      "ownerEmail": "owner.r197588-o1@demo.com",
-      "ownerDomain": "demo.com",
-      "contractNumber": "57c526959b4248748bedb1eb9627f7a3",
+      "ownerEmail": null,
+      "ownerDomain": null,
+      "contractNumber": null,
       "effectiveDate": "2026-07-23T00:00:00+00:00",
       "expiryDate": "2026-07-26T00:00:00+00:00",
-      "hasCatalog": true
+      "hasCatalog": false
     }
   ]
 };
