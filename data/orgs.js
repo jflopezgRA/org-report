@@ -1,11 +1,11 @@
 window.__ORGS__ = {
   "environment": "demo",
-  "generatedAt": "2026-07-27T09:02:41Z",
+  "generatedAt": "2026-07-28T08:54:14Z",
   "summary": {
-    "total": 37,
-    "internal": 1,
-    "external": 36,
-    "withCatalog": 25
+    "total": 40,
+    "internal": 2,
+    "external": 38,
+    "withCatalog": 27
   },
   "organizations": [
     {
@@ -450,6 +450,42 @@ window.__ORGS__ = {
       "contractNumber": null,
       "effectiveDate": "2026-07-23T00:00:00+00:00",
       "expiryDate": "2026-07-26T00:00:00+00:00",
+      "hasCatalog": false
+    },
+    {
+      "tenant": "e93bec70-4665-4788-9bbe-d1d4ffc7e230",
+      "cluster_index": "001",
+      "name": "Codex Auth Test 143416",
+      "type": "External",
+      "ownerEmail": "engineer_102.bugbounty08@demo.com",
+      "ownerDomain": "demo.com",
+      "contractNumber": "3c86f34dad9c4b12bf14f46f177c5b5e",
+      "effectiveDate": "2026-07-27T00:00:00+00:00",
+      "expiryDate": "2027-07-27T00:00:00+00:00",
+      "hasCatalog": true
+    },
+    {
+      "tenant": "7b23cc58-8dae-43f6-b00b-52606c3a3133",
+      "cluster_index": "001",
+      "name": "Codex Controlled Victim 20260727",
+      "type": "External",
+      "ownerEmail": "engineer_102.bugbounty08@demo.com",
+      "ownerDomain": "demo.com",
+      "contractNumber": "7667b490e59c40a090b177dd088f6f41",
+      "effectiveDate": "2026-07-27T00:00:00+00:00",
+      "expiryDate": "2027-07-27T00:00:00+00:00",
+      "hasCatalog": true
+    },
+    {
+      "tenant": "0bcbb2c4-57d2-405f-bfbd-03997ab18bea",
+      "cluster_index": "001",
+      "name": "RAU DTT",
+      "type": "Internal",
+      "ownerEmail": null,
+      "ownerDomain": null,
+      "contractNumber": null,
+      "effectiveDate": "2025-07-28T00:00:00+00:00",
+      "expiryDate": "2026-07-28T00:00:00+00:00",
       "hasCatalog": false
     }
   ]
