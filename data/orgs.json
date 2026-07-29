@@ -1,11 +1,11 @@
 {
   "environment": "demo",
-  "generatedAt": "2026-07-28T08:54:14Z",
+  "generatedAt": "2026-07-29T08:54:56Z",
   "summary": {
-    "total": 40,
+    "total": 31,
     "internal": 2,
-    "external": 38,
-    "withCatalog": 27
+    "external": 29,
+    "withCatalog": 29
   },
   "organizations": [
     {
@@ -273,18 +273,6 @@
       "hasCatalog": true
     },
     {
-      "tenant": "8a1328de-976b-46cc-bd94-3b7a228eb6da",
-      "cluster_index": "001",
-      "name": "Demo Organization r195385-o1",
-      "type": "External",
-      "ownerEmail": null,
-      "ownerDomain": null,
-      "contractNumber": null,
-      "effectiveDate": "2026-06-30T00:00:00+00:00",
-      "expiryDate": "2026-07-15T00:00:00+00:00",
-      "hasCatalog": false
-    },
-    {
       "tenant": "f492fcc8-759a-45cb-866b-bf589d55a234",
       "cluster_index": "001",
       "name": "Demo Organization BugBounty08",
@@ -321,138 +309,6 @@
       "hasCatalog": true
     },
     {
-      "tenant": "58e954da-2d3c-4912-8f98-6859d7c9aed9",
-      "cluster_index": "001",
-      "name": "Demo Organization r196411-o1",
-      "type": "External",
-      "ownerEmail": null,
-      "ownerDomain": null,
-      "contractNumber": null,
-      "effectiveDate": "2026-07-13T00:00:00+00:00",
-      "expiryDate": "2026-07-16T00:00:00+00:00",
-      "hasCatalog": false
-    },
-    {
-      "tenant": "3ffbf5a0-7c46-4c14-b4d2-0d463bdb767b",
-      "cluster_index": "001",
-      "name": "Demo Organization r196597-o1",
-      "type": "External",
-      "ownerEmail": null,
-      "ownerDomain": null,
-      "contractNumber": null,
-      "effectiveDate": "2026-07-14T00:00:00+00:00",
-      "expiryDate": "2026-07-17T00:00:00+00:00",
-      "hasCatalog": false
-    },
-    {
-      "tenant": "5ffaf00b-7622-4f48-83a4-bafe3f777f3e",
-      "cluster_index": "001",
-      "name": "Demo Organization r196596-o1",
-      "type": "External",
-      "ownerEmail": null,
-      "ownerDomain": null,
-      "contractNumber": null,
-      "effectiveDate": "2026-07-14T00:00:00+00:00",
-      "expiryDate": "2026-07-17T00:00:00+00:00",
-      "hasCatalog": false
-    },
-    {
-      "tenant": "beda27fc-374f-4b5c-abe3-1ee91553abda",
-      "cluster_index": "001",
-      "name": "gsdf",
-      "type": "External",
-      "ownerEmail": "engineer_3.bugbounty08@demo.com",
-      "ownerDomain": "demo.com",
-      "contractNumber": "8c532ec817fd46058bde22781f11d684",
-      "effectiveDate": "2026-07-08T00:00:00+00:00",
-      "expiryDate": "2027-07-08T00:00:00+00:00",
-      "hasCatalog": true
-    },
-    {
-      "tenant": "84faa1d7-1e7f-4b40-871e-901bf2c1e2e5",
-      "cluster_index": "001",
-      "name": "Demo Organization r197093-o1",
-      "type": "External",
-      "ownerEmail": null,
-      "ownerDomain": null,
-      "contractNumber": null,
-      "effectiveDate": "2026-07-17T00:00:00+00:00",
-      "expiryDate": "2026-07-19T00:00:00+00:00",
-      "hasCatalog": false
-    },
-    {
-      "tenant": "d6c08962-5c14-4873-bf9a-7b5b3e27c1db",
-      "cluster_index": "001",
-      "name": "Demo Organization r197228-o1",
-      "type": "External",
-      "ownerEmail": null,
-      "ownerDomain": null,
-      "contractNumber": null,
-      "effectiveDate": "2026-07-20T00:00:00+00:00",
-      "expiryDate": "2026-07-23T00:00:00+00:00",
-      "hasCatalog": false
-    },
-    {
-      "tenant": "6ddb19b0-63ac-4f66-9e66-bd07ef2ee0b3",
-      "cluster_index": "001",
-      "name": "Demo Organization r197269-o1",
-      "type": "External",
-      "ownerEmail": null,
-      "ownerDomain": null,
-      "contractNumber": null,
-      "effectiveDate": "2026-07-20T00:00:00+00:00",
-      "expiryDate": "2026-07-25T00:00:00+00:00",
-      "hasCatalog": false
-    },
-    {
-      "tenant": "17a6142a-9956-4698-b41e-343b19e8b589",
-      "cluster_index": "001",
-      "name": "Demo Organization r197272-o1",
-      "type": "External",
-      "ownerEmail": null,
-      "ownerDomain": null,
-      "contractNumber": null,
-      "effectiveDate": "2026-07-20T00:00:00+00:00",
-      "expiryDate": "2026-07-23T00:00:00+00:00",
-      "hasCatalog": false
-    },
-    {
-      "tenant": "a0ea0e3a-7163-4317-b9f6-2dcea5c286c5",
-      "cluster_index": "001",
-      "name": "Demo Organization r197424-o1",
-      "type": "External",
-      "ownerEmail": null,
-      "ownerDomain": null,
-      "contractNumber": null,
-      "effectiveDate": "2026-07-22T00:00:00+00:00",
-      "expiryDate": "2026-07-25T00:00:00+00:00",
-      "hasCatalog": false
-    },
-    {
-      "tenant": "46bd0475-7961-4588-af28-1a332edc3892",
-      "cluster_index": "001",
-      "name": "Demo Organization r197557-o1",
-      "type": "External",
-      "ownerEmail": null,
-      "ownerDomain": null,
-      "contractNumber": null,
-      "effectiveDate": "2026-07-22T00:00:00+00:00",
-      "expiryDate": "2026-07-25T00:00:00+00:00",
-      "hasCatalog": false
-    },
-    {
-      "tenant": "82a6ef1a-e595-4620-8a84-c6c55e10a974",
-      "cluster_index": "001",
-      "name": "Demo Organization r197588-o1",
-      "type": "External",
-      "ownerEmail": null,
-      "ownerDomain": null,
-      "contractNumber": null,
-      "effectiveDate": "2026-07-23T00:00:00+00:00",
-      "expiryDate": "2026-07-26T00:00:00+00:00",
-      "hasCatalog": false
-    },
-    {
       "tenant": "e93bec70-4665-4788-9bbe-d1d4ffc7e230",
       "cluster_index": "001",
       "name": "Codex Auth Test 143416",
@@ -487,6 +343,42 @@
       "effectiveDate": "2025-07-28T00:00:00+00:00",
       "expiryDate": "2026-07-28T00:00:00+00:00",
       "hasCatalog": false
+    },
+    {
+      "tenant": "12ad06fd-aef8-4c41-bbce-047492cd3af3",
+      "cluster_index": "001",
+      "name": "Demo Organization r197981-o1",
+      "type": "External",
+      "ownerEmail": "owner.r197981-o1@demo.com",
+      "ownerDomain": "demo.com",
+      "contractNumber": "2561611203be4b0b82c9aa8cef96b72b",
+      "effectiveDate": "2026-07-28T00:00:00+00:00",
+      "expiryDate": "2026-08-01T00:00:00+00:00",
+      "hasCatalog": true
+    },
+    {
+      "tenant": "51596900-0445-42f7-9317-79c0ec8800ec",
+      "cluster_index": "001",
+      "name": "burayasak",
+      "type": "External",
+      "ownerEmail": "engineer_54.bugbounty08@demo.com",
+      "ownerDomain": "demo.com",
+      "contractNumber": "6cc26dde26f446b5b0af0ca3873f10f6",
+      "effectiveDate": "2026-07-07T00:00:00+00:00",
+      "expiryDate": "2027-07-07T00:00:00+00:00",
+      "hasCatalog": true
+    },
+    {
+      "tenant": "f856f574-3826-470d-8801-09e1ec9b0ea0",
+      "cluster_index": "001",
+      "name": "<a>asdas</a>",
+      "type": "External",
+      "ownerEmail": "engineer_54.bugbounty08@demo.com",
+      "ownerDomain": "demo.com",
+      "contractNumber": "626cb0d1e97b49a5936d567254cd620d",
+      "effectiveDate": "2026-07-07T00:00:00+00:00",
+      "expiryDate": "2027-07-07T00:00:00+00:00",
+      "hasCatalog": true
     }
   ]
 }
