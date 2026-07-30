@@ -1,11 +1,11 @@
 {
   "environment": "demo",
-  "generatedAt": "2026-07-29T08:54:56Z",
+  "generatedAt": "2026-07-30T08:52:07Z",
   "summary": {
     "total": 31,
     "internal": 2,
     "external": 29,
-    "withCatalog": 29
+    "withCatalog": 28
   },
   "organizations": [
     {
@@ -265,12 +265,12 @@
       "cluster_index": "001",
       "name": "Demo Organization TestOncourseDemo",
       "type": "External",
-      "ownerEmail": "owner.testoncoursedemo@demo.com",
-      "ownerDomain": "demo.com",
-      "contractNumber": "1075ad9759f44af1b264d845c7d601b0",
+      "ownerEmail": null,
+      "ownerDomain": null,
+      "contractNumber": null,
       "effectiveDate": "2026-06-04T00:00:00+00:00",
       "expiryDate": "2026-07-30T00:00:00+00:00",
-      "hasCatalog": true
+      "hasCatalog": false
     },
     {
       "tenant": "f492fcc8-759a-45cb-866b-bf589d55a234",
