@@ -1,10 +1,10 @@
 window.__ORGS__ = {
   "environment": "demo",
-  "generatedAt": "2026-07-31T08:58:55Z",
+  "generatedAt": "2026-08-01T08:43:24Z",
   "summary": {
-    "total": 31,
+    "total": 32,
     "internal": 2,
-    "external": 29,
+    "external": 30,
     "withCatalog": 28
   },
   "organizations": [
@@ -349,12 +349,12 @@ window.__ORGS__ = {
       "cluster_index": "001",
       "name": "Demo Organization r197981-o1",
       "type": "External",
-      "ownerEmail": "owner.r197981-o1@demo.com",
-      "ownerDomain": "demo.com",
-      "contractNumber": "2561611203be4b0b82c9aa8cef96b72b",
+      "ownerEmail": null,
+      "ownerDomain": null,
+      "contractNumber": null,
       "effectiveDate": "2026-07-28T00:00:00+00:00",
       "expiryDate": "2026-08-01T00:00:00+00:00",
-      "hasCatalog": true
+      "hasCatalog": false
     },
     {
       "tenant": "51596900-0445-42f7-9317-79c0ec8800ec",
@@ -378,6 +378,18 @@ window.__ORGS__ = {
       "contractNumber": "626cb0d1e97b49a5936d567254cd620d",
       "effectiveDate": "2026-07-07T00:00:00+00:00",
       "expiryDate": "2027-07-07T00:00:00+00:00",
+      "hasCatalog": true
+    },
+    {
+      "tenant": "e13f9bcc-aed0-4d1d-824b-d7909bed73e0",
+      "cluster_index": "001",
+      "name": "Demo Organization r198285-o1",
+      "type": "External",
+      "ownerEmail": "owner.r198285-o1@demo.com",
+      "ownerDomain": "demo.com",
+      "contractNumber": "d6d5412c43d140a59191ef15918cc0ef",
+      "effectiveDate": "2026-07-31T00:00:00+00:00",
+      "expiryDate": "2026-08-04T00:00:00+00:00",
       "hasCatalog": true
     }
   ]
