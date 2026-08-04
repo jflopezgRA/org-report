@@ -1,11 +1,11 @@
 {
   "environment": "demo",
-  "generatedAt": "2026-08-03T09:02:43Z",
+  "generatedAt": "2026-08-04T08:53:53Z",
   "summary": {
-    "total": 33,
+    "total": 34,
     "internal": 2,
-    "external": 31,
-    "withCatalog": 29
+    "external": 32,
+    "withCatalog": 30
   },
   "organizations": [
     {
@@ -25,12 +25,12 @@
       "cluster_index": "001",
       "name": "monitoring-hub",
       "type": "External",
-      "ownerEmail": null,
-      "ownerDomain": null,
-      "contractNumber": null,
+      "ownerEmail": "rockwell.automation.9@gmx.com",
+      "ownerDomain": "gmx.com",
+      "contractNumber": "436e698c38a14bf69917e4308cd37e6e",
       "effectiveDate": "2024-10-02T00:00:00+00:00",
       "expiryDate": "2025-10-02T00:00:00+00:00",
-      "hasCatalog": false
+      "hasCatalog": true
     },
     {
       "tenant": "d023d1e9-c9b0-4caa-9912-dce63fc79671",
@@ -385,12 +385,12 @@
       "cluster_index": "001",
       "name": "Demo Organization r198285-o1",
       "type": "External",
-      "ownerEmail": "owner.r198285-o1@demo.com",
-      "ownerDomain": "demo.com",
-      "contractNumber": "d6d5412c43d140a59191ef15918cc0ef",
+      "ownerEmail": null,
+      "ownerDomain": null,
+      "contractNumber": null,
       "effectiveDate": "2026-07-31T00:00:00+00:00",
       "expiryDate": "2026-08-04T00:00:00+00:00",
-      "hasCatalog": true
+      "hasCatalog": false
     },
     {
       "tenant": "d75f0a86-ad16-4ca0-8ad3-809671ce439e",
@@ -402,6 +402,18 @@
       "contractNumber": "6ed02e1f718a4cf4a254a47a5667b334",
       "effectiveDate": "2026-08-03T00:00:00+00:00",
       "expiryDate": "2026-08-11T00:00:00+00:00",
+      "hasCatalog": true
+    },
+    {
+      "tenant": "bf732529-d48a-4cb0-85b6-97ec6398003c",
+      "cluster_index": "001",
+      "name": "Demo Organization r198422-o1",
+      "type": "External",
+      "ownerEmail": "owner.r198422-o1@demo.com",
+      "ownerDomain": "demo.com",
+      "contractNumber": "a865a98c0e9d4cdea0b256aded6d140f",
+      "effectiveDate": "2026-08-03T00:00:00+00:00",
+      "expiryDate": "2026-08-07T00:00:00+00:00",
       "hasCatalog": true
     }
   ]
