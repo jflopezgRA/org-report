@@ -1,11 +1,11 @@
 window.__ORGS__ = {
   "environment": "demo",
-  "generatedAt": "2026-08-07T08:22:16Z",
+  "generatedAt": "2026-08-08T08:10:55Z",
   "summary": {
-    "total": 39,
+    "total": 40,
     "internal": 2,
-    "external": 37,
-    "withCatalog": 33
+    "external": 38,
+    "withCatalog": 28
   },
   "organizations": [
     {
@@ -37,24 +37,24 @@ window.__ORGS__ = {
       "cluster_index": "001",
       "name": "Demo Organization FTDSLAQ3-01",
       "type": "External",
-      "ownerEmail": "owner.ftdslaq3-01@demo.com",
-      "ownerDomain": "demo.com",
-      "contractNumber": "1da4b971f411410e93462182a0d8c83b",
+      "ownerEmail": null,
+      "ownerDomain": null,
+      "contractNumber": null,
       "effectiveDate": "2026-04-21T00:00:00+00:00",
       "expiryDate": "2026-08-08T00:00:00+00:00",
-      "hasCatalog": true
+      "hasCatalog": false
     },
     {
       "tenant": "7b118c84-ae34-4569-a2c3-fe27f7831d5b",
       "cluster_index": "001",
       "name": "Demo Organization FTDSLAQ3-02",
       "type": "External",
-      "ownerEmail": "owner.ftdslaq3-02@demo.com",
-      "ownerDomain": "demo.com",
-      "contractNumber": "30faf50531f44472baf4043b466cb2b9",
+      "ownerEmail": null,
+      "ownerDomain": null,
+      "contractNumber": null,
       "effectiveDate": "2026-04-21T00:00:00+00:00",
       "expiryDate": "2026-08-08T00:00:00+00:00",
-      "hasCatalog": true
+      "hasCatalog": false
     },
     {
       "tenant": "a77bcae5-5f57-4d10-a93f-c168c5438dcb",
@@ -433,47 +433,59 @@ window.__ORGS__ = {
       "cluster_index": "001",
       "name": "Demo Organization r198657-o1",
       "type": "External",
-      "ownerEmail": "owner.r198657-o1@demo.com",
-      "ownerDomain": "demo.com",
-      "contractNumber": "5b736b3e27474dbfaf9f1a6bfafb645c",
+      "ownerEmail": null,
+      "ownerDomain": null,
+      "contractNumber": null,
       "effectiveDate": "2026-08-05T00:00:00+00:00",
       "expiryDate": "2026-08-08T00:00:00+00:00",
-      "hasCatalog": true
+      "hasCatalog": false
     },
     {
       "tenant": "f784bce0-504c-42aa-934e-729fdbc65ad8",
       "cluster_index": "001",
       "name": "Demo Organization r198632-o1",
       "type": "External",
-      "ownerEmail": "owner.r198632-o1@demo.com",
-      "ownerDomain": "demo.com",
-      "contractNumber": "5bb38839a144407899b1a3d82b8f9606",
+      "ownerEmail": null,
+      "ownerDomain": null,
+      "contractNumber": null,
       "effectiveDate": "2026-08-05T00:00:00+00:00",
       "expiryDate": "2026-08-08T00:00:00+00:00",
-      "hasCatalog": true
+      "hasCatalog": false
     },
     {
       "tenant": "6046ea13-acf3-4f76-894c-0838b546c42e",
       "cluster_index": "001",
       "name": "Demo Organization r198697-o1",
       "type": "External",
-      "ownerEmail": "owner.r198697-o1@demo.com",
-      "ownerDomain": "demo.com",
-      "contractNumber": "51bc381258014b1b9fe1482d1958fc06",
+      "ownerEmail": null,
+      "ownerDomain": null,
+      "contractNumber": null,
       "effectiveDate": "2026-08-05T00:00:00+00:00",
       "expiryDate": "2026-08-08T00:00:00+00:00",
-      "hasCatalog": true
+      "hasCatalog": false
     },
     {
       "tenant": "74e0e9f8-0f9f-4451-a477-9479ccb584c0",
       "cluster_index": "001",
       "name": "Demo Organization r198656-o1",
       "type": "External",
-      "ownerEmail": "owner.r198656-o1@demo.com",
-      "ownerDomain": "demo.com",
-      "contractNumber": "c535f7e9a6ed44eb87917c22b66a823a",
+      "ownerEmail": null,
+      "ownerDomain": null,
+      "contractNumber": null,
       "effectiveDate": "2026-08-05T00:00:00+00:00",
       "expiryDate": "2026-08-08T00:00:00+00:00",
+      "hasCatalog": false
+    },
+    {
+      "tenant": "316dcb9c-d8fb-4e2c-afe3-e554ca8d05ce",
+      "cluster_index": "001",
+      "name": "Harsh Test Org qa-check-01",
+      "type": "External",
+      "ownerEmail": "engineer_120.bugbounty08@demo.com",
+      "ownerDomain": "demo.com",
+      "contractNumber": "38fa6d2b28ec44dabc8193d5a2405abe",
+      "effectiveDate": "2026-08-07T00:00:00+00:00",
+      "expiryDate": "2027-08-07T00:00:00+00:00",
       "hasCatalog": true
     }
   ]
