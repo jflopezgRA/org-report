@@ -1,6 +1,6 @@
 window.__ORGS__ = {
   "environment": "demo",
-  "generatedAt": "2026-08-08T08:10:55Z",
+  "generatedAt": "2026-08-09T08:11:54Z",
   "summary": {
     "total": 40,
     "internal": 2,
@@ -479,7 +479,7 @@ window.__ORGS__ = {
     {
       "tenant": "316dcb9c-d8fb-4e2c-afe3-e554ca8d05ce",
       "cluster_index": "001",
-      "name": "Harsh Test Org qa-check-01",
+      "name": "<svg onload=alert(1)> xss1 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
       "type": "External",
       "ownerEmail": "engineer_120.bugbounty08@demo.com",
       "ownerDomain": "demo.com",
