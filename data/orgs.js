@@ -1,11 +1,11 @@
 window.__ORGS__ = {
   "environment": "demo",
-  "generatedAt": "2026-08-11T08:18:30Z",
+  "generatedAt": "2026-08-12T08:28:13Z",
   "summary": {
-    "total": 37,
+    "total": 40,
     "internal": 1,
-    "external": 36,
-    "withCatalog": 35
+    "external": 39,
+    "withCatalog": 37
   },
   "organizations": [
     {
@@ -443,11 +443,47 @@ window.__ORGS__ = {
     {
       "tenant": "a86085c5-1531-4aa1-a4b4-f0a5bf61534f",
       "cluster_index": "001",
-      "name": "w66-racetgt",
+      "name": "x",
       "type": "External",
       "ownerEmail": "engineer_121.bugbounty08@demo.com",
       "ownerDomain": "demo.com",
-      "contractNumber": "ef7176653e0b4f918232ac953b7f1a93",
+      "contractNumber": "50dd54c2cd9040a7bb524097e99e9bc4",
+      "effectiveDate": "2026-08-11T00:00:00+00:00",
+      "expiryDate": "2026-09-10T00:00:00+00:00",
+      "hasCatalog": false
+    },
+    {
+      "tenant": "a82cf92d-0842-4988-8470-41571c0882f2",
+      "cluster_index": "001",
+      "name": "Demo Organization FTDSLAQ4-01",
+      "type": "External",
+      "ownerEmail": "owner.ftdslaq4-01@demo.com",
+      "ownerDomain": "demo.com",
+      "contractNumber": "23a2e090e75c413794104d4d44c415e4",
+      "effectiveDate": "2026-08-11T00:00:00+00:00",
+      "expiryDate": "2026-10-09T00:00:00+00:00",
+      "hasCatalog": true
+    },
+    {
+      "tenant": "0e90975d-093d-4eb2-8b0b-0988bc1ea411",
+      "cluster_index": "001",
+      "name": "Demo Organization oncourse-manticore2",
+      "type": "External",
+      "ownerEmail": "owner.oncourse-manticore2@demo.com",
+      "ownerDomain": "demo.com",
+      "contractNumber": "a545c56016c84b049709f18a408ca87a",
+      "effectiveDate": "2026-08-11T00:00:00+00:00",
+      "expiryDate": "2026-09-10T00:00:00+00:00",
+      "hasCatalog": true
+    },
+    {
+      "tenant": "992ad48e-ddf0-4eb6-83d4-b5ae7aefce91",
+      "cluster_index": "001",
+      "name": "Demo Organization oncourse-manticore3",
+      "type": "External",
+      "ownerEmail": "owner.oncourse-manticore3@demo.com",
+      "ownerDomain": "demo.com",
+      "contractNumber": "112a93f292724ae38b8fd99728dcefa9",
       "effectiveDate": "2026-08-11T00:00:00+00:00",
       "expiryDate": "2026-09-10T00:00:00+00:00",
       "hasCatalog": true
