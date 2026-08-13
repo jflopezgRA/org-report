@@ -1,6 +1,6 @@
 window.__ORGS__ = {
   "environment": "demo",
-  "generatedAt": "2026-08-12T08:28:13Z",
+  "generatedAt": "2026-08-13T08:29:39Z",
   "summary": {
     "total": 40,
     "internal": 1,
@@ -10,6 +10,7 @@ window.__ORGS__ = {
   "organizations": [
     {
       "tenant": "aa23dee8-4805-4654-946a-d199de7589b2",
+      "region_id": "centralus",
       "cluster_index": "001",
       "name": "Demo Organization Beau2",
       "type": "External",
@@ -22,6 +23,7 @@ window.__ORGS__ = {
     },
     {
       "tenant": "8a743a95-59ea-4f50-a067-921dcc535740",
+      "region_id": "centralus",
       "cluster_index": "001",
       "name": "monitoring-hub",
       "type": "External",
@@ -34,6 +36,7 @@ window.__ORGS__ = {
     },
     {
       "tenant": "a77bcae5-5f57-4d10-a93f-c168c5438dcb",
+      "region_id": "centralus",
       "cluster_index": "001",
       "name": "Demo Organization r192425-o1",
       "type": "External",
@@ -46,6 +49,7 @@ window.__ORGS__ = {
     },
     {
       "tenant": "1276a04a-e1ce-4364-a0ed-1e77589221f8",
+      "region_id": "centralus",
       "cluster_index": "001",
       "name": "Demo Organization r192578-o1",
       "type": "External",
@@ -58,6 +62,7 @@ window.__ORGS__ = {
     },
     {
       "tenant": "0d5c8139-7883-435d-b81a-938ed05b1bc2",
+      "region_id": "centralus",
       "cluster_index": "001",
       "name": "Demo Organization r192579-o1",
       "type": "External",
@@ -70,6 +75,7 @@ window.__ORGS__ = {
     },
     {
       "tenant": "023eb8b2-2282-4a9f-858c-a9bacc5e23a2",
+      "region_id": "centralus",
       "cluster_index": "001",
       "name": "Demo Organization r192581-o1",
       "type": "External",
@@ -82,6 +88,7 @@ window.__ORGS__ = {
     },
     {
       "tenant": "8c247f6a-afc1-4390-8b85-ec8e8c20c138",
+      "region_id": "centralus",
       "cluster_index": "001",
       "name": "Demo Organization r192582-o1",
       "type": "External",
@@ -94,6 +101,7 @@ window.__ORGS__ = {
     },
     {
       "tenant": "6c69c8e1-b0da-4037-b3d7-fc851dea370c",
+      "region_id": "centralus",
       "cluster_index": "001",
       "name": "Demo Organization r192583-o1",
       "type": "External",
@@ -106,6 +114,7 @@ window.__ORGS__ = {
     },
     {
       "tenant": "a059b652-4f10-46b8-95bb-92a411d2d3bf",
+      "region_id": "centralus",
       "cluster_index": "001",
       "name": "Demo Organization r192580-o1",
       "type": "External",
@@ -118,6 +127,7 @@ window.__ORGS__ = {
     },
     {
       "tenant": "ff7d3b4a-ef93-4a02-8c3b-049c667d4de0",
+      "region_id": "centralus",
       "cluster_index": "001",
       "name": "Demo Organization r192745-o1",
       "type": "External",
@@ -130,6 +140,7 @@ window.__ORGS__ = {
     },
     {
       "tenant": "62957907-42ca-44ce-99c6-ac322f50146e",
+      "region_id": "centralus",
       "cluster_index": "001",
       "name": "Demo Organization r192749-o1",
       "type": "External",
@@ -142,6 +153,7 @@ window.__ORGS__ = {
     },
     {
       "tenant": "20f1ce6c-f680-4595-8c3a-b586d78163d8",
+      "region_id": "centralus",
       "cluster_index": "001",
       "name": "Demo Organization r192746-o1",
       "type": "External",
@@ -154,6 +166,7 @@ window.__ORGS__ = {
     },
     {
       "tenant": "6ae8d1b7-9e24-45ea-a64d-7fa41f506a50",
+      "region_id": "centralus",
       "cluster_index": "001",
       "name": "Demo Organization r192748-o1",
       "type": "External",
@@ -166,6 +179,7 @@ window.__ORGS__ = {
     },
     {
       "tenant": "b6b6961a-8d85-451b-9cda-a00ac4b1fbf2",
+      "region_id": "centralus",
       "cluster_index": "001",
       "name": "Demo Organization r192747-o1",
       "type": "External",
@@ -178,6 +192,7 @@ window.__ORGS__ = {
     },
     {
       "tenant": "51c18f00-f7ad-45c5-8b07-2416b02db071",
+      "region_id": "centralus",
       "cluster_index": "001",
       "name": "Demo Organization r192752-o1",
       "type": "External",
@@ -190,6 +205,7 @@ window.__ORGS__ = {
     },
     {
       "tenant": "80cc8311-8ef1-46ed-a805-916d15455d8d",
+      "region_id": "centralus",
       "cluster_index": "001",
       "name": "Demo Organization r192751-o1",
       "type": "External",
@@ -202,6 +218,7 @@ window.__ORGS__ = {
     },
     {
       "tenant": "973dadb0-24b9-4abc-9348-70b950f740fd",
+      "region_id": "centralus",
       "cluster_index": "001",
       "name": "Demo Organization r192755-o1",
       "type": "External",
@@ -214,6 +231,7 @@ window.__ORGS__ = {
     },
     {
       "tenant": "21cc0cbf-892a-4653-8f7f-d1b807987f8d",
+      "region_id": "centralus",
       "cluster_index": "001",
       "name": "Demo Organization r192753-o1",
       "type": "External",
@@ -226,6 +244,7 @@ window.__ORGS__ = {
     },
     {
       "tenant": "4ea162df-4524-421c-acaa-9efd53d5c6d7",
+      "region_id": "centralus",
       "cluster_index": "001",
       "name": "Demo Organization r192754-o1",
       "type": "External",
@@ -238,6 +257,7 @@ window.__ORGS__ = {
     },
     {
       "tenant": "f492fcc8-759a-45cb-866b-bf589d55a234",
+      "region_id": "centralus",
       "cluster_index": "001",
       "name": "Demo Organization BugBounty08",
       "type": "External",
@@ -250,6 +270,7 @@ window.__ORGS__ = {
     },
     {
       "tenant": "f01f34ec-8b8d-4f1d-a354-ed6332b75180",
+      "region_id": "centralus",
       "cluster_index": "001",
       "name": "Demo Organization BugBounty09",
       "type": "External",
@@ -262,6 +283,7 @@ window.__ORGS__ = {
     },
     {
       "tenant": "68b9c20f-0e4d-40a9-828a-f0d364675801",
+      "region_id": "centralus",
       "cluster_index": "001",
       "name": "TenantFTRA Test",
       "type": "Internal",
@@ -274,6 +296,7 @@ window.__ORGS__ = {
     },
     {
       "tenant": "e93bec70-4665-4788-9bbe-d1d4ffc7e230",
+      "region_id": "centralus",
       "cluster_index": "001",
       "name": "Codex Auth Test 143416",
       "type": "External",
@@ -286,6 +309,7 @@ window.__ORGS__ = {
     },
     {
       "tenant": "d75f0a86-ad16-4ca0-8ad3-809671ce439e",
+      "region_id": "centralus",
       "cluster_index": "001",
       "name": "Demo Organization r198350-o1",
       "type": "External",
@@ -298,6 +322,7 @@ window.__ORGS__ = {
     },
     {
       "tenant": "a5813b86-afce-42e8-b5b6-0799a05b4158",
+      "region_id": "centralus",
       "cluster_index": "001",
       "name": "bb08chain-d1bc5cef",
       "type": "External",
@@ -310,6 +335,7 @@ window.__ORGS__ = {
     },
     {
       "tenant": "316dcb9c-d8fb-4e2c-afe3-e554ca8d05ce",
+      "region_id": "centralus",
       "cluster_index": "001",
       "name": "<svg onload=alert(1)> xss1 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
       "type": "External",
@@ -322,6 +348,7 @@ window.__ORGS__ = {
     },
     {
       "tenant": "c658ab0d-37ba-4119-b708-04ce0be4dbc1",
+      "region_id": "centralus",
       "cluster_index": "001",
       "name": "Demo Organization r198633-o1",
       "type": "External",
@@ -334,6 +361,7 @@ window.__ORGS__ = {
     },
     {
       "tenant": "b70b8a2c-7ef2-4e65-a178-2706fff88106",
+      "region_id": "centralus",
       "cluster_index": "001",
       "name": "Demo Organization oncourse-manticore",
       "type": "External",
@@ -346,6 +374,7 @@ window.__ORGS__ = {
     },
     {
       "tenant": "cad0acbe-3bda-4488-b079-812368c58649",
+      "region_id": "centralus",
       "cluster_index": "001",
       "name": "bugsv2-h1-test-org",
       "type": "External",
@@ -358,6 +387,7 @@ window.__ORGS__ = {
     },
     {
       "tenant": "14d76fdc-fad9-4cdb-962c-982172cec194",
+      "region_id": "centralus",
       "cluster_index": "001",
       "name": "bugsv2-L29-lab",
       "type": "External",
@@ -370,6 +400,7 @@ window.__ORGS__ = {
     },
     {
       "tenant": "73fce55b-3305-48fc-8ac0-a1e24600bade",
+      "region_id": "centralus",
       "cluster_index": "001",
       "name": "bugsv2-L29-lab2",
       "type": "External",
@@ -382,6 +413,7 @@ window.__ORGS__ = {
     },
     {
       "tenant": "57104ad8-6b3c-4ff1-8330-4b990fbe436e",
+      "region_id": "centralus",
       "cluster_index": "001",
       "name": "bugsv2-L29-lab3",
       "type": "External",
@@ -394,6 +426,7 @@ window.__ORGS__ = {
     },
     {
       "tenant": "b4ec0c8d-de70-4ecf-bc91-6a4c8d917420",
+      "region_id": "centralus",
       "cluster_index": "001",
       "name": "bugsv2-L29-lab4",
       "type": "External",
@@ -406,6 +439,7 @@ window.__ORGS__ = {
     },
     {
       "tenant": "5defdd85-9405-4124-8dd5-9858ad04b6ee",
+      "region_id": "centralus",
       "cluster_index": "001",
       "name": "bugsv2-L29-lab5",
       "type": "External",
@@ -418,6 +452,7 @@ window.__ORGS__ = {
     },
     {
       "tenant": "ddb331d4-5b49-4b04-83bc-08e596e35ef6",
+      "region_id": "centralus",
       "cluster_index": "001",
       "name": "bugsv2-L29-lab6",
       "type": "External",
@@ -430,6 +465,7 @@ window.__ORGS__ = {
     },
     {
       "tenant": "3599c99b-096c-474a-b238-5b12863b6f3e",
+      "region_id": "centralus",
       "cluster_index": "001",
       "name": "Demo Organization r199123-o1",
       "type": "External",
@@ -442,6 +478,7 @@ window.__ORGS__ = {
     },
     {
       "tenant": "a86085c5-1531-4aa1-a4b4-f0a5bf61534f",
+      "region_id": "centralus",
       "cluster_index": "001",
       "name": "x",
       "type": "External",
@@ -454,6 +491,7 @@ window.__ORGS__ = {
     },
     {
       "tenant": "a82cf92d-0842-4988-8470-41571c0882f2",
+      "region_id": "centralus",
       "cluster_index": "001",
       "name": "Demo Organization FTDSLAQ4-01",
       "type": "External",
@@ -466,6 +504,7 @@ window.__ORGS__ = {
     },
     {
       "tenant": "0e90975d-093d-4eb2-8b0b-0988bc1ea411",
+      "region_id": "centralus",
       "cluster_index": "001",
       "name": "Demo Organization oncourse-manticore2",
       "type": "External",
@@ -478,6 +517,7 @@ window.__ORGS__ = {
     },
     {
       "tenant": "992ad48e-ddf0-4eb6-83d4-b5ae7aefce91",
+      "region_id": "centralus",
       "cluster_index": "001",
       "name": "Demo Organization oncourse-manticore3",
       "type": "External",
