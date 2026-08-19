@@ -1,11 +1,11 @@
 window.__ORGS__ = {
   "environment": "demo",
-  "generatedAt": "2026-08-18T08:08:06Z",
+  "generatedAt": "2026-08-19T08:08:20Z",
   "summary": {
-    "total": 44,
+    "total": 45,
     "internal": 1,
-    "external": 43,
-    "withCatalog": 42
+    "external": 44,
+    "withCatalog": 41
   },
   "organizations": [
     {
@@ -298,7 +298,7 @@ window.__ORGS__ = {
       "tenant": "a5813b86-afce-42e8-b5b6-0799a05b4158",
       "region_id": "centralus",
       "cluster_index": "001",
-      "name": "bb08chain-d1bc5cef",
+      "name": "My super org",
       "type": "External",
       "ownerEmail": "engineer_118.bugbounty08@demo.com",
       "ownerDomain": "demo.com",
@@ -412,19 +412,6 @@ window.__ORGS__ = {
       "hasCatalog": true
     },
     {
-      "tenant": "a82cf92d-0842-4988-8470-41571c0882f2",
-      "region_id": "centralus",
-      "cluster_index": "001",
-      "name": "Demo Organization FTDSLAQ4-01",
-      "type": "External",
-      "ownerEmail": "owner.ftdslaq4-01@demo.com",
-      "ownerDomain": "demo.com",
-      "contractNumber": "23a2e090e75c413794104d4d44c415e4",
-      "effectiveDate": "2026-08-11T00:00:00+00:00",
-      "expiryDate": "2026-10-09T00:00:00+00:00",
-      "hasCatalog": true
-    },
-    {
       "tenant": "992ad48e-ddf0-4eb6-83d4-b5ae7aefce91",
       "region_id": "centralus",
       "cluster_index": "001",
@@ -534,12 +521,12 @@ window.__ORGS__ = {
       "cluster_index": "001",
       "name": "Demo Organization r199645-o1",
       "type": "External",
-      "ownerEmail": "owner.r199645-o1@demo.com",
-      "ownerDomain": "demo.com",
-      "contractNumber": "957b2f9c980b476c98b63468991a6a00",
+      "ownerEmail": null,
+      "ownerDomain": null,
+      "contractNumber": null,
       "effectiveDate": "2026-08-15T00:00:00+00:00",
       "expiryDate": "2026-08-19T00:00:00+00:00",
-      "hasCatalog": true
+      "hasCatalog": false
     },
     {
       "tenant": "3341d343-8f81-4e0a-842a-cc1d7d7bcf34",
@@ -578,6 +565,32 @@ window.__ORGS__ = {
       "contractNumber": "f698372ad0224c878c86f36719273bf1",
       "effectiveDate": "2026-08-18T00:00:00+00:00",
       "expiryDate": "2026-08-21T00:00:00+00:00",
+      "hasCatalog": true
+    },
+    {
+      "tenant": "870a7e31-73ad-4e9f-ac0c-fc35d599b3ff",
+      "region_id": "centralus",
+      "cluster_index": "001",
+      "name": "ht-ownorg-1786988396",
+      "type": "External",
+      "ownerEmail": null,
+      "ownerDomain": null,
+      "contractNumber": null,
+      "effectiveDate": "2026-08-18T00:00:00+00:00",
+      "expiryDate": "2026-08-19T00:00:00+00:00",
+      "hasCatalog": false
+    },
+    {
+      "tenant": "41bff7ba-7024-415a-bd41-cf5dcbc9f811",
+      "region_id": "centralus",
+      "cluster_index": "001",
+      "name": "Demo Organization FTDSLAQ4-002",
+      "type": "External",
+      "ownerEmail": "owner.ftdslaq4-002@demo.com",
+      "ownerDomain": "demo.com",
+      "contractNumber": "c3fbfe7fcc6d4015b3725812aa7f8473",
+      "effectiveDate": "2026-08-18T00:00:00+00:00",
+      "expiryDate": "2026-12-31T00:00:00+00:00",
       "hasCatalog": true
     }
   ]
