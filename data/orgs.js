@@ -1,11 +1,11 @@
 window.__ORGS__ = {
   "environment": "demo",
-  "generatedAt": "2026-08-19T08:08:20Z",
+  "generatedAt": "2026-08-20T08:10:19Z",
   "summary": {
-    "total": 45,
+    "total": 47,
     "internal": 1,
-    "external": 44,
-    "withCatalog": 41
+    "external": 46,
+    "withCatalog": 42
   },
   "organizations": [
     {
@@ -592,6 +592,32 @@ window.__ORGS__ = {
       "effectiveDate": "2026-08-18T00:00:00+00:00",
       "expiryDate": "2026-12-31T00:00:00+00:00",
       "hasCatalog": true
+    },
+    {
+      "tenant": "56e6ae89-f039-43d8-b300-b9413abadc7a",
+      "region_id": "centralus",
+      "cluster_index": "001",
+      "name": "Demo Organization r199966-o1",
+      "type": "External",
+      "ownerEmail": "owner.r199966-o1@demo.com",
+      "ownerDomain": "demo.com",
+      "contractNumber": "533c47dfaf764d3e9a7de6481e256e55",
+      "effectiveDate": "2026-08-19T00:00:00+00:00",
+      "expiryDate": "2026-08-23T00:00:00+00:00",
+      "hasCatalog": true
+    },
+    {
+      "tenant": "982da63a-1e2b-4591-bdba-4f0aebc94f92",
+      "region_id": "centralus",
+      "cluster_index": "001",
+      "name": "Delete Fluxcd Migration",
+      "type": "External",
+      "ownerEmail": null,
+      "ownerDomain": null,
+      "contractNumber": null,
+      "effectiveDate": "2025-08-20T00:00:00+00:00",
+      "expiryDate": "2026-08-20T00:00:00+00:00",
+      "hasCatalog": false
     }
   ]
 };
