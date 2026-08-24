@@ -1,11 +1,11 @@
 window.__ORGS__ = {
   "environment": "demo",
-  "generatedAt": "2026-08-23T08:04:55Z",
+  "generatedAt": "2026-08-24T08:13:14Z",
   "summary": {
-    "total": 59,
+    "total": 49,
     "internal": 1,
-    "external": 58,
-    "withCatalog": 33
+    "external": 48,
+    "withCatalog": 34
   },
   "organizations": [
     {
@@ -633,147 +633,17 @@ window.__ORGS__ = {
       "hasCatalog": false
     },
     {
-      "tenant": "790be31e-6c56-4ba3-9c12-1120db625eab",
+      "tenant": "f9842026-0094-4d16-8dd7-e7b3af1a0ad4",
       "region_id": "centralus",
       "cluster_index": null,
-      "name": "bb-anonregion-0707b",
+      "name": "XSSLiveDE0824",
       "type": "External",
-      "ownerEmail": null,
-      "ownerDomain": null,
-      "contractNumber": null,
-      "effectiveDate": null,
-      "expiryDate": null,
-      "hasCatalog": false
-    },
-    {
-      "tenant": "48751cbf-ea62-46fb-8c3b-87dd5ec745db",
-      "region_id": "centralus",
-      "cluster_index": null,
-      "name": "bb-repro-a013-opus",
-      "type": "External",
-      "ownerEmail": null,
-      "ownerDomain": null,
-      "contractNumber": null,
-      "effectiveDate": null,
-      "expiryDate": null,
-      "hasCatalog": false
-    },
-    {
-      "tenant": "2d9cf290-c08f-47e1-8210-d8e540482b27",
-      "region_id": "centralus",
-      "cluster_index": null,
-      "name": "bb-repro-a013-anon",
-      "type": "External",
-      "ownerEmail": null,
-      "ownerDomain": null,
-      "contractNumber": null,
-      "effectiveDate": null,
-      "expiryDate": null,
-      "hasCatalog": false
-    },
-    {
-      "tenant": "ebd681d2-4174-4d9c-b56b-e936ea9d83d0",
-      "region_id": "centralus",
-      "cluster_index": null,
-      "name": "bb-repro-a013-bearer",
-      "type": "External",
-      "ownerEmail": null,
-      "ownerDomain": null,
-      "contractNumber": null,
-      "effectiveDate": null,
-      "expiryDate": null,
-      "hasCatalog": false
-    },
-    {
-      "tenant": "6c4ac96e-d54a-448d-9d7b-41674108b031",
-      "region_id": "centralus",
-      "cluster_index": null,
-      "name": "bb-repro3-a013-anon",
-      "type": "External",
-      "ownerEmail": null,
-      "ownerDomain": null,
-      "contractNumber": null,
-      "effectiveDate": null,
-      "expiryDate": null,
-      "hasCatalog": false
-    },
-    {
-      "tenant": "b58fdcad-5fe6-46b6-bd63-441ca0f7b2cb",
-      "region_id": "centralus",
-      "cluster_index": null,
-      "name": "bb-repro3-a013-bearer",
-      "type": "External",
-      "ownerEmail": null,
-      "ownerDomain": null,
-      "contractNumber": null,
-      "effectiveDate": null,
-      "expiryDate": null,
-      "hasCatalog": false
-    },
-    {
-      "tenant": "31af820c-00d1-4ebb-ab97-7a3b49d29aed",
-      "region_id": "centralus",
-      "cluster_index": null,
-      "name": "bb-ct-L0-control",
-      "type": "External",
-      "ownerEmail": null,
-      "ownerDomain": null,
-      "contractNumber": null,
-      "effectiveDate": null,
-      "expiryDate": null,
-      "hasCatalog": false
-    },
-    {
-      "tenant": "73a58a04-d461-45bf-b8a7-6983bedcb41a",
-      "region_id": "centralus",
-      "cluster_index": null,
-      "name": "bb-ct-L3-foreign-user",
-      "type": "External",
-      "ownerEmail": null,
-      "ownerDomain": null,
-      "contractNumber": null,
-      "effectiveDate": null,
-      "expiryDate": null,
-      "hasCatalog": false
-    },
-    {
-      "tenant": "205f3825-e170-4bd8-bafd-714e76bbba5f",
-      "region_id": "centralus",
-      "cluster_index": null,
-      "name": "bb-repro4-a013",
-      "type": "External",
-      "ownerEmail": null,
-      "ownerDomain": null,
-      "contractNumber": null,
-      "effectiveDate": null,
-      "expiryDate": null,
-      "hasCatalog": false
-    },
-    {
-      "tenant": "371ecba6-2d61-47ee-a2aa-cffc1b0492fb",
-      "region_id": "centralus",
-      "cluster_index": null,
-      "name": "bb-ct-L1-tenant-f492",
-      "type": "External",
-      "ownerEmail": null,
-      "ownerDomain": null,
-      "contractNumber": null,
-      "effectiveDate": null,
-      "expiryDate": null,
-      "hasCatalog": false
-    },
-    {
-      "tenant": "cc351090-a7a9-4d93-9648-65cdd848c974",
-      "region_id": "centralus",
-      "cluster_index": null,
-      "name": "bb-ct-L2-testorg33",
-      "type": "External",
-      "ownerEmail": null,
-      "ownerDomain": null,
-      "contractNumber": null,
-      "effectiveDate": null,
-      "expiryDate": null,
-      "hasCatalog": false
+      "ownerEmail": "engineer_120.bugbounty08@demo.com",
+      "ownerDomain": "demo.com",
+      "contractNumber": "38fa6d2b28ec44dabc8193d5a2405abe",
+      "effectiveDate": "2026-08-07T00:00:00+00:00",
+      "expiryDate": "2027-08-07T00:00:00+00:00",
+      "hasCatalog": true
     }
   ]
 };
