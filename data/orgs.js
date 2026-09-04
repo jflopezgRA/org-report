@@ -1,6 +1,6 @@
 window.__ORGS__ = {
   "environment": "demo",
-  "generatedAt": "2026-09-03T08:02:34Z",
+  "generatedAt": "2026-09-04T08:02:48Z",
   "summary": {
     "total": 15,
     "internal": 2,
