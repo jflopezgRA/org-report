@@ -1,11 +1,11 @@
 window.__ORGS__ = {
   "environment": "demo",
-  "generatedAt": "2026-09-10T08:02:29Z",
+  "generatedAt": "2026-09-11T08:02:44Z",
   "summary": {
-    "total": 22,
+    "total": 23,
     "internal": 2,
-    "external": 20,
-    "withCatalog": 20
+    "external": 21,
+    "withCatalog": 19
   },
   "organizations": [
     {
@@ -79,12 +79,12 @@ window.__ORGS__ = {
       "cluster_index": "001",
       "name": "Demo Organization oncourse-manticore3",
       "type": "External",
-      "ownerEmail": "owner.oncourse-manticore3@demo.com",
-      "ownerDomain": "demo.com",
-      "contractNumber": "112a93f292724ae38b8fd99728dcefa9",
+      "ownerEmail": null,
+      "ownerDomain": null,
+      "contractNumber": null,
       "effectiveDate": "2026-08-11T00:00:00+00:00",
       "expiryDate": "2026-09-10T00:00:00+00:00",
-      "hasCatalog": true
+      "hasCatalog": false
     },
     {
       "tenant": "8f90d824-85eb-478e-a8a2-9004129652f6",
@@ -209,12 +209,12 @@ window.__ORGS__ = {
       "cluster_index": "001",
       "name": "Demo Organization r201840-o1",
       "type": "External",
-      "ownerEmail": "owner.r201840-o1@demo.com",
-      "ownerDomain": "demo.com",
-      "contractNumber": "67781c6e6b464259ae3044db1c5fdc04",
+      "ownerEmail": null,
+      "ownerDomain": null,
+      "contractNumber": null,
       "effectiveDate": "2026-09-07T00:00:00+00:00",
       "expiryDate": "2026-09-10T00:00:00+00:00",
-      "hasCatalog": true
+      "hasCatalog": false
     },
     {
       "tenant": "9fbdc7d7-5f46-475f-a9a5-c310af363672",
@@ -292,6 +292,19 @@ window.__ORGS__ = {
       "contractNumber": "616a40d4c3c9450cb5a027e3a0928112",
       "effectiveDate": "2026-09-09T00:00:00+00:00",
       "expiryDate": "2026-09-12T00:00:00+00:00",
+      "hasCatalog": true
+    },
+    {
+      "tenant": "42510217-f8ba-44fc-a846-c6557be2dcb9",
+      "region_id": "centralus",
+      "cluster_index": "001",
+      "name": "Demo Organization r202244-o1",
+      "type": "External",
+      "ownerEmail": "owner.r202244-o1@demo.com",
+      "ownerDomain": "demo.com",
+      "contractNumber": "a9bb318298ef4fa6b2e349137d611263",
+      "effectiveDate": "2026-09-10T00:00:00+00:00",
+      "expiryDate": "2026-09-13T00:00:00+00:00",
       "hasCatalog": true
     }
   ]
