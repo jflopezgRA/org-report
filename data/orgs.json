@@ -1,11 +1,11 @@
 {
   "environment": "demo",
-  "generatedAt": "2026-09-15T08:02:26Z",
+  "generatedAt": "2026-09-16T08:02:39Z",
   "summary": {
-    "total": 29,
-    "internal": 2,
-    "external": 27,
-    "withCatalog": 18
+    "total": 18,
+    "internal": 1,
+    "external": 17,
+    "withCatalog": 17
   },
   "organizations": [
     {
@@ -74,19 +74,6 @@
       "hasCatalog": true
     },
     {
-      "tenant": "992ad48e-ddf0-4eb6-83d4-b5ae7aefce91",
-      "region_id": "centralus",
-      "cluster_index": "001",
-      "name": "Demo Organization oncourse-manticore3",
-      "type": "External",
-      "ownerEmail": null,
-      "ownerDomain": null,
-      "contractNumber": null,
-      "effectiveDate": "2026-08-11T00:00:00+00:00",
-      "expiryDate": "2026-09-10T00:00:00+00:00",
-      "hasCatalog": false
-    },
-    {
       "tenant": "8f90d824-85eb-478e-a8a2-9004129652f6",
       "region_id": "centralus",
       "cluster_index": "001",
@@ -126,45 +113,6 @@
       "hasCatalog": true
     },
     {
-      "tenant": "b330c6bf-114a-49b9-8559-0d7ad4de9857",
-      "region_id": "centralus",
-      "cluster_index": "001",
-      "name": "demo 2.06 delete",
-      "type": "Internal",
-      "ownerEmail": "lauraalejandra.quintero@rockwellautomation.com",
-      "ownerDomain": "rockwellautomation.com",
-      "contractNumber": "1f6930f39ec74c268dcafec35581a6ee",
-      "effectiveDate": "2026-08-31T00:00:00+00:00",
-      "expiryDate": "2027-08-31T00:00:00+00:00",
-      "hasCatalog": true
-    },
-    {
-      "tenant": "ddf19adb-01c2-44ff-bd23-9966ee87693f",
-      "region_id": "centralus",
-      "cluster_index": "001",
-      "name": "Demo Organization r201286-o1",
-      "type": "External",
-      "ownerEmail": null,
-      "ownerDomain": null,
-      "contractNumber": null,
-      "effectiveDate": "2026-08-31T00:00:00+00:00",
-      "expiryDate": "2026-09-03T00:00:00+00:00",
-      "hasCatalog": false
-    },
-    {
-      "tenant": "39cb97d7-204c-4af0-a9d8-35579d69265f",
-      "region_id": "centralus",
-      "cluster_index": "001",
-      "name": "Demo Organization r201290-o1",
-      "type": "External",
-      "ownerEmail": null,
-      "ownerDomain": null,
-      "contractNumber": null,
-      "effectiveDate": "2026-08-31T00:00:00+00:00",
-      "expiryDate": "2026-09-05T00:00:00+00:00",
-      "hasCatalog": false
-    },
-    {
       "tenant": "1155e5c2-1093-4c32-b822-2e9113c8a022",
       "region_id": "centralus",
       "cluster_index": "001",
@@ -202,123 +150,6 @@
       "effectiveDate": "2026-09-03T00:00:00+00:00",
       "expiryDate": "2026-09-18T00:00:00+00:00",
       "hasCatalog": true
-    },
-    {
-      "tenant": "87ba706c-5783-4ef3-9238-2ddde2990fb9",
-      "region_id": "centralus",
-      "cluster_index": "001",
-      "name": "Demo Organization r201840-o1",
-      "type": "External",
-      "ownerEmail": null,
-      "ownerDomain": null,
-      "contractNumber": null,
-      "effectiveDate": "2026-09-07T00:00:00+00:00",
-      "expiryDate": "2026-09-10T00:00:00+00:00",
-      "hasCatalog": false
-    },
-    {
-      "tenant": "9fbdc7d7-5f46-475f-a9a5-c310af363672",
-      "region_id": "centralus",
-      "cluster_index": "001",
-      "name": "cauldr0n-arm-{{7*7}}-b2",
-      "type": "External",
-      "ownerEmail": "engineer_175.bugbounty08@demo.com",
-      "ownerDomain": "demo.com",
-      "contractNumber": "153ac5906fb843c08a661dd0604c4b0e",
-      "effectiveDate": "2026-09-01T00:00:00+00:00",
-      "expiryDate": "2027-09-01T00:00:00+00:00",
-      "hasCatalog": true
-    },
-    {
-      "tenant": "348df25e-9b66-47fc-bd30-641307dbb2a5",
-      "region_id": "centralus",
-      "cluster_index": "001",
-      "name": "Demo Organization r202053-o1",
-      "type": "External",
-      "ownerEmail": null,
-      "ownerDomain": null,
-      "contractNumber": null,
-      "effectiveDate": "2026-09-08T00:00:00+00:00",
-      "expiryDate": "2026-09-12T00:00:00+00:00",
-      "hasCatalog": false
-    },
-    {
-      "tenant": "2b851f8b-15f7-49ac-b572-3e34e56b946e",
-      "region_id": "centralus",
-      "cluster_index": "001",
-      "name": "slide123-bbp-notify-20260831-110328",
-      "type": "External",
-      "ownerEmail": "engineer_170.bugbounty08@demo.com",
-      "ownerDomain": "demo.com",
-      "contractNumber": "3450762009784c5fb25c7a848a77889d",
-      "effectiveDate": "2026-09-07T00:00:00+00:00",
-      "expiryDate": "2027-09-07T00:00:00+00:00",
-      "hasCatalog": true
-    },
-    {
-      "tenant": "379cab12-32b7-4035-bf30-a978ead30502",
-      "region_id": "centralus",
-      "cluster_index": "001",
-      "name": "Demo Organization r202056-o1",
-      "type": "External",
-      "ownerEmail": null,
-      "ownerDomain": null,
-      "contractNumber": null,
-      "effectiveDate": "2026-09-09T00:00:00+00:00",
-      "expiryDate": "2026-09-12T00:00:00+00:00",
-      "hasCatalog": false
-    },
-    {
-      "tenant": "6cd2e7c8-0d3b-4e22-b1e9-a99f7b139ce2",
-      "region_id": "centralus",
-      "cluster_index": "001",
-      "name": "Demo Organization r202193-o1",
-      "type": "External",
-      "ownerEmail": null,
-      "ownerDomain": null,
-      "contractNumber": null,
-      "effectiveDate": "2026-09-09T00:00:00+00:00",
-      "expiryDate": "2026-09-12T00:00:00+00:00",
-      "hasCatalog": false
-    },
-    {
-      "tenant": "0b1e199d-3205-4b07-b975-2b8f485ceb56",
-      "region_id": "centralus",
-      "cluster_index": "001",
-      "name": "Demo Organization r202105-o1",
-      "type": "External",
-      "ownerEmail": null,
-      "ownerDomain": null,
-      "contractNumber": null,
-      "effectiveDate": "2026-09-09T00:00:00+00:00",
-      "expiryDate": "2026-09-12T00:00:00+00:00",
-      "hasCatalog": false
-    },
-    {
-      "tenant": "42510217-f8ba-44fc-a846-c6557be2dcb9",
-      "region_id": "centralus",
-      "cluster_index": "001",
-      "name": "Demo Organization r202244-o1",
-      "type": "External",
-      "ownerEmail": null,
-      "ownerDomain": null,
-      "contractNumber": null,
-      "effectiveDate": "2026-09-10T00:00:00+00:00",
-      "expiryDate": "2026-09-13T00:00:00+00:00",
-      "hasCatalog": false
-    },
-    {
-      "tenant": "3bef9caf-1014-4542-8a6b-3bb955608c2f",
-      "region_id": "centralus",
-      "cluster_index": "001",
-      "name": "Demo Organization r-55109683-o1-642",
-      "type": "External",
-      "ownerEmail": null,
-      "ownerDomain": null,
-      "contractNumber": null,
-      "effectiveDate": "2026-09-11T00:00:00+00:00",
-      "expiryDate": "2026-09-12T00:00:00+00:00",
-      "hasCatalog": false
     },
     {
       "tenant": "8804fc1f-82f2-43e0-a172-ec8e4faeec8e",
@@ -383,6 +214,32 @@
       "contractNumber": "4ae2ac5a5d48453cb97397e39f68610e",
       "effectiveDate": "2026-09-15T00:00:00+00:00",
       "expiryDate": "2026-09-16T00:00:00+00:00",
+      "hasCatalog": true
+    },
+    {
+      "tenant": "9d116344-78d2-472d-996b-c992150618a7",
+      "region_id": "centralus",
+      "cluster_index": "001",
+      "name": "Demo Organization r202631-o1",
+      "type": "External",
+      "ownerEmail": "owner.r202631-o1@demo.com",
+      "ownerDomain": "demo.com",
+      "contractNumber": "315fa6595c094abf85582b67e32e8c8e",
+      "effectiveDate": "2026-09-15T00:00:00+00:00",
+      "expiryDate": "2026-09-19T00:00:00+00:00",
+      "hasCatalog": true
+    },
+    {
+      "tenant": "6d13499a-1ca5-417e-880f-f1a1d7a77356",
+      "region_id": "centralus",
+      "cluster_index": "001",
+      "name": "Demo Organization r2050000031-o1",
+      "type": "External",
+      "ownerEmail": "owner.r2050000031-o1@demo.com",
+      "ownerDomain": "demo.com",
+      "contractNumber": "359bb27128ef4862b5c19112a3ac7c20",
+      "effectiveDate": "2026-09-15T00:00:00+00:00",
+      "expiryDate": "2026-09-17T00:00:00+00:00",
       "hasCatalog": true
     }
   ]
