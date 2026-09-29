@@ -1,11 +1,11 @@
 window.__ORGS__ = {
   "environment": "demo",
-  "generatedAt": "2026-09-28T08:08:14Z",
+  "generatedAt": "2026-09-29T08:03:02Z",
   "summary": {
-    "total": 17,
+    "total": 11,
     "internal": 2,
-    "external": 15,
-    "withCatalog": 11
+    "external": 9,
+    "withCatalog": 10
   },
   "organizations": [
     {
@@ -135,34 +135,6 @@ window.__ORGS__ = {
       "hasCatalog": true
     },
     {
-      "tenant": "e0b3c5d9-07f5-4668-ad99-d19deb0411dc",
-      "region_id": "centralus",
-      "cluster_index": "001",
-      "name": "Demo Organization r203552-o1",
-      "type": "External",
-      "ownerName": "Owner Demouser",
-      "ownerEmail": "owner.r203552-o1@demo.com",
-      "ownerDomain": "demo.com",
-      "contractNumber": "946909153eb942b8bc7253902e1abcf6",
-      "effectiveDate": "2026-09-22T00:00:00+00:00",
-      "expiryDate": "2026-09-25T00:00:00+00:00",
-      "hasCatalog": false
-    },
-    {
-      "tenant": "006852c7-0a0b-4322-a0d1-1e80342c6599",
-      "region_id": "centralus",
-      "cluster_index": "001",
-      "name": "Demo Organization r203581-o1",
-      "type": "External",
-      "ownerName": "Owner Demouser",
-      "ownerEmail": "owner.r203581-o1@demo.com",
-      "ownerDomain": "demo.com",
-      "contractNumber": "6ce410f4cbf2430d97fa7d4fe9f505b0",
-      "effectiveDate": "2026-09-22T00:00:00+00:00",
-      "expiryDate": "2026-09-25T00:00:00+00:00",
-      "hasCatalog": false
-    },
-    {
       "tenant": "ffbb1a8e-54ca-4155-8f70-8d61c33f1524",
       "region_id": "centralus",
       "cluster_index": "001",
@@ -177,62 +149,6 @@ window.__ORGS__ = {
       "hasCatalog": true
     },
     {
-      "tenant": "1c8b42da-8ac6-448d-a5ab-3572272ca4c6",
-      "region_id": "centralus",
-      "cluster_index": "001",
-      "name": "Demo Organization r203655-o1",
-      "type": "External",
-      "ownerName": "Owner Demouser",
-      "ownerEmail": "owner.r203655-o1@demo.com",
-      "ownerDomain": "demo.com",
-      "contractNumber": "62ca4da91b2d4f32a0a4e832c8bb91ef",
-      "effectiveDate": "2026-09-23T00:00:00+00:00",
-      "expiryDate": "2026-09-26T00:00:00+00:00",
-      "hasCatalog": false
-    },
-    {
-      "tenant": "826ec7ab-d2d7-4052-b0e3-47b01806f4aa",
-      "region_id": "centralus",
-      "cluster_index": "001",
-      "name": "Demo Organization r203756-o1",
-      "type": "External",
-      "ownerName": "Owner Demouser",
-      "ownerEmail": "owner.r203756-o1@demo.com",
-      "ownerDomain": "demo.com",
-      "contractNumber": "3da49ab6da994e5a8fc7dc31becc58d4",
-      "effectiveDate": "2026-09-23T00:00:00+00:00",
-      "expiryDate": "2026-09-26T00:00:00+00:00",
-      "hasCatalog": false
-    },
-    {
-      "tenant": "1e0c0ccb-950c-4e6d-b08a-2b94879884e0",
-      "region_id": "centralus",
-      "cluster_index": "001",
-      "name": "Demo Organization r203772-o1",
-      "type": "External",
-      "ownerName": "Owner Demouser",
-      "ownerEmail": "owner.r203772-o1@demo.com",
-      "ownerDomain": "demo.com",
-      "contractNumber": "5367ee4ac6774c71b1620482b120d33f",
-      "effectiveDate": "2026-09-23T00:00:00+00:00",
-      "expiryDate": "2026-09-26T00:00:00+00:00",
-      "hasCatalog": false
-    },
-    {
-      "tenant": "b474fcef-e239-4e31-b40b-95712073c6f2",
-      "region_id": "centralus",
-      "cluster_index": "001",
-      "name": "Demo Organization r203774-o1",
-      "type": "External",
-      "ownerName": "Owner Demouser",
-      "ownerEmail": "owner.r203774-o1@demo.com",
-      "ownerDomain": "demo.com",
-      "contractNumber": "d964a078228f49eab980d418c3a7ccc8",
-      "effectiveDate": "2026-09-23T00:00:00+00:00",
-      "expiryDate": "2026-09-26T00:00:00+00:00",
-      "hasCatalog": false
-    },
-    {
       "tenant": "d8ddc9fe-9fd3-479f-8b65-c4e0e67c0abf",
       "region_id": "centralus",
       "cluster_index": "001",
@@ -244,7 +160,7 @@ window.__ORGS__ = {
       "contractNumber": "1a5b04a7e4124c0ea1815ac4a32dce54",
       "effectiveDate": "2026-09-25T00:00:00+00:00",
       "expiryDate": "2026-09-28T00:00:00+00:00",
-      "hasCatalog": true
+      "hasCatalog": false
     }
   ]
 };
