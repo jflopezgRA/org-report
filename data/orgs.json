@@ -1,10 +1,10 @@
 {
   "environment": "demo",
-  "generatedAt": "2026-09-29T08:03:02Z",
+  "generatedAt": "2026-09-30T08:02:49Z",
   "summary": {
     "total": 11,
-    "internal": 2,
-    "external": 9,
+    "internal": 1,
+    "external": 10,
     "withCatalog": 10
   },
   "organizations": [
@@ -107,34 +107,6 @@
       "hasCatalog": true
     },
     {
-      "tenant": "5f9e3d86-319f-455b-98a7-59184604ea80",
-      "region_id": "centralus",
-      "cluster_index": "001",
-      "name": "demo 2.06.01",
-      "type": "Internal",
-      "ownerName": "Laura Alejandra Quintero",
-      "ownerEmail": "lauraalejandra.quintero@rockwellautomation.com",
-      "ownerDomain": "rockwellautomation.com",
-      "contractNumber": "71abda3728404b639f9407e796472c54",
-      "effectiveDate": "2026-09-19T00:00:00+00:00",
-      "expiryDate": "2027-09-19T00:00:00+00:00",
-      "hasCatalog": true
-    },
-    {
-      "tenant": "b438ea75-17bd-41b8-b2c2-1d39e51bd32c",
-      "region_id": "centralus",
-      "cluster_index": "001",
-      "name": "Demo Organization TestTenant",
-      "type": "External",
-      "ownerName": "Owner Demouser",
-      "ownerEmail": "owner.testtenant@demo.com",
-      "ownerDomain": "demo.com",
-      "contractNumber": "7f1b8e707fc7496f896cd852df68a301",
-      "effectiveDate": "2026-09-21T00:00:00+00:00",
-      "expiryDate": "2026-09-30T00:00:00+00:00",
-      "hasCatalog": true
-    },
-    {
       "tenant": "ffbb1a8e-54ca-4155-8f70-8d61c33f1524",
       "region_id": "centralus",
       "cluster_index": "001",
@@ -161,6 +133,34 @@
       "effectiveDate": "2026-09-25T00:00:00+00:00",
       "expiryDate": "2026-09-28T00:00:00+00:00",
       "hasCatalog": false
+    },
+    {
+      "tenant": "16a1df51-1d09-476b-8d78-863207c2c394",
+      "region_id": "centralus",
+      "cluster_index": "001",
+      "name": "Demo Organization testing-manticore3",
+      "type": "External",
+      "ownerName": "Owner Demouser",
+      "ownerEmail": "owner.testing-manticore3@demo.com",
+      "ownerDomain": "demo.com",
+      "contractNumber": "0e4e3b1703f044e7a6a09312b33b9225",
+      "effectiveDate": "2026-09-29T00:00:00+00:00",
+      "expiryDate": "2026-10-10T00:00:00+00:00",
+      "hasCatalog": true
+    },
+    {
+      "tenant": "e4ba161f-f937-4389-99ab-1b56539d5d7a",
+      "region_id": "centralus",
+      "cluster_index": "001",
+      "name": "Demo Organization testingmanticore3",
+      "type": "External",
+      "ownerName": "Owner Demouser",
+      "ownerEmail": "owner.testingmanticore3@demo.com",
+      "ownerDomain": "demo.com",
+      "contractNumber": "b9db2a5c0f7d447a8cad3d638f604a9b",
+      "effectiveDate": "2026-09-29T00:00:00+00:00",
+      "expiryDate": "2026-10-10T00:00:00+00:00",
+      "hasCatalog": true
     }
   ]
 }
