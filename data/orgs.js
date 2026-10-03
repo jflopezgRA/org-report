@@ -1,11 +1,11 @@
 window.__ORGS__ = {
   "environment": "demo",
-  "generatedAt": "2026-10-02T08:02:30Z",
+  "generatedAt": "2026-10-03T08:02:32Z",
   "summary": {
-    "total": 16,
+    "total": 19,
     "internal": 1,
-    "external": 15,
-    "withCatalog": 15
+    "external": 18,
+    "withCatalog": 18
   },
   "organizations": [
     {
@@ -230,6 +230,48 @@ window.__ORGS__ = {
       "contractNumber": "efab2e0854444650805b9a4cda89ba88",
       "effectiveDate": "2026-10-02T00:00:00+00:00",
       "expiryDate": "2026-10-04T00:00:00+00:00",
+      "hasCatalog": true
+    },
+    {
+      "tenant": "06691c2f-825e-4a10-8364-69f784d26661",
+      "region_id": "centralus",
+      "cluster_index": "001",
+      "name": "Demo Organization r2000000011-o1",
+      "type": "External",
+      "ownerName": "Owner Demouser",
+      "ownerEmail": "owner.r2000000011-o1@demo.com",
+      "ownerDomain": "demo.com",
+      "contractNumber": "242b3fd6cdfb4771a7f8959220ea3ffb",
+      "effectiveDate": "2026-10-02T00:00:00+00:00",
+      "expiryDate": "2026-10-07T00:00:00+00:00",
+      "hasCatalog": true
+    },
+    {
+      "tenant": "49155bb4-ef7d-4f2b-914c-767606244d0e",
+      "region_id": "centralus",
+      "cluster_index": "001",
+      "name": "Demo Organization r2000000012-o1",
+      "type": "External",
+      "ownerName": "Owner Demouser",
+      "ownerEmail": "owner.r2000000012-o1@demo.com",
+      "ownerDomain": "demo.com",
+      "contractNumber": "7b3902cab293432fa608e036fbbc79e0",
+      "effectiveDate": "2026-10-02T00:00:00+00:00",
+      "expiryDate": "2026-10-04T00:00:00+00:00",
+      "hasCatalog": true
+    },
+    {
+      "tenant": "f731cab1-b83d-4e33-b2b0-00b33e3ec92c",
+      "region_id": "centralus",
+      "cluster_index": "001",
+      "name": "Demo Organization r2000000013-o1",
+      "type": "External",
+      "ownerName": "Owner Demouser",
+      "ownerEmail": "owner.r2000000013-o1@demo.com",
+      "ownerDomain": "demo.com",
+      "contractNumber": "49f5fba5622341efbd75289d673ec260",
+      "effectiveDate": "2026-10-02T00:00:00+00:00",
+      "expiryDate": "2026-10-07T00:00:00+00:00",
       "hasCatalog": true
     }
   ]
