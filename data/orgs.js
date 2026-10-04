@@ -1,11 +1,11 @@
 window.__ORGS__ = {
   "environment": "demo",
-  "generatedAt": "2026-10-03T08:02:32Z",
+  "generatedAt": "2026-10-04T10:04:31Z",
   "summary": {
     "total": 19,
     "internal": 1,
     "external": 18,
-    "withCatalog": 18
+    "withCatalog": 17
   },
   "organizations": [
     {
@@ -174,7 +174,7 @@ window.__ORGS__ = {
       "contractNumber": "4bee40b1b594441d9dd9dcca3b1b1190",
       "effectiveDate": "2026-09-30T00:00:00+00:00",
       "expiryDate": "2026-10-03T00:00:00+00:00",
-      "hasCatalog": true
+      "hasCatalog": false
     },
     {
       "tenant": "fa71558a-c4bb-4904-bffe-b224f1abbe0e",
