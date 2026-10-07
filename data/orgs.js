@@ -1,11 +1,11 @@
 window.__ORGS__ = {
   "environment": "demo",
-  "generatedAt": "2026-10-06T08:03:07Z",
+  "generatedAt": "2026-10-07T08:03:31Z",
   "summary": {
-    "total": 26,
+    "total": 29,
     "internal": 1,
-    "external": 25,
-    "withCatalog": 19
+    "external": 28,
+    "withCatalog": 22
   },
   "organizations": [
     {
@@ -370,6 +370,48 @@ window.__ORGS__ = {
       "contractNumber": "5061649559dc4153801890a6197b1134",
       "effectiveDate": "2026-10-05T00:00:00+00:00",
       "expiryDate": "2026-10-10T00:00:00+00:00",
+      "hasCatalog": true
+    },
+    {
+      "tenant": "0658fd00-2821-44d9-9df2-854e9da2d4b7",
+      "region_id": "centralus",
+      "cluster_index": "001",
+      "name": "Demo Organization r205123-o1",
+      "type": "External",
+      "ownerName": "Owner Demouser",
+      "ownerEmail": "owner.r205123-o1@demo.com",
+      "ownerDomain": "demo.com",
+      "contractNumber": "2ce3433e79ad4210aa3357aa2d092977",
+      "effectiveDate": "2026-10-06T00:00:00+00:00",
+      "expiryDate": "2026-10-10T00:00:00+00:00",
+      "hasCatalog": true
+    },
+    {
+      "tenant": "603cdb89-125c-4c29-8da0-37f9c794a456",
+      "region_id": "centralus",
+      "cluster_index": "001",
+      "name": "Demo Organization r205193-o1",
+      "type": "External",
+      "ownerName": "Owner Demouser",
+      "ownerEmail": "owner.r205193-o1@demo.com",
+      "ownerDomain": "demo.com",
+      "contractNumber": "e4270980f8d04b4e95c0ee4089280f5b",
+      "effectiveDate": "2026-10-07T00:00:00+00:00",
+      "expiryDate": "2026-10-10T00:00:00+00:00",
+      "hasCatalog": true
+    },
+    {
+      "tenant": "415fd718-64fc-4832-888d-65033ba28f79",
+      "region_id": "centralus",
+      "cluster_index": "001",
+      "name": "ZXRO Bug Bounty Research 2026-10-07",
+      "type": "External",
+      "ownerName": "engineer_9 Demouser",
+      "ownerEmail": "engineer_9.bugbounty09@demo.com",
+      "ownerDomain": "demo.com",
+      "contractNumber": "ffc96bdeebfe4184996e5c3354a3c193",
+      "effectiveDate": "2026-10-03T00:00:00+00:00",
+      "expiryDate": "2026-11-02T00:00:00+00:00",
       "hasCatalog": true
     }
   ]
