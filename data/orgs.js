@@ -1,11 +1,11 @@
 window.__ORGS__ = {
   "environment": "demo",
-  "generatedAt": "2026-10-12T08:17:04Z",
+  "generatedAt": "2026-10-13T08:07:46Z",
   "summary": {
-    "total": 47,
+    "total": 52,
     "internal": 1,
-    "external": 46,
-    "withCatalog": 18
+    "external": 51,
+    "withCatalog": 23
   },
   "organizations": [
     {
@@ -664,6 +664,76 @@ window.__ORGS__ = {
       "contractNumber": "7f0817b6f1a24a7d864997d17c74695f",
       "effectiveDate": "2026-10-12T00:00:00+00:00",
       "expiryDate": "2026-10-17T00:00:00+00:00",
+      "hasCatalog": true
+    },
+    {
+      "tenant": "5a02af6b-180e-4a09-97c1-5885cbbda068",
+      "region_id": "centralus",
+      "cluster_index": "001",
+      "name": "HVC-RID454c2f85-IDE-f2c09149",
+      "type": "External",
+      "ownerName": "Havoc Researcher",
+      "ownerEmail": "havocrabbb46d12d9201@guerrillamailblock.com",
+      "ownerDomain": "guerrillamailblock.com",
+      "contractNumber": "d7b90946480d48b0bdc00ed74866f72f",
+      "effectiveDate": "2026-10-13T00:00:00+00:00",
+      "expiryDate": "2026-10-14T00:00:00+00:00",
+      "hasCatalog": true
+    },
+    {
+      "tenant": "9d2ff9c1-c8ac-43fd-8355-3bfefd6a3682",
+      "region_id": "centralus",
+      "cluster_index": "001",
+      "name": "HVC-RID6e691-B-a491223a",
+      "type": "External",
+      "ownerName": "Havoc Researcher",
+      "ownerEmail": "havocraawpgotx6j3kx@maxxspace.com",
+      "ownerDomain": "maxxspace.com",
+      "contractNumber": "756e8f75c0584e43b57df61cbc112024",
+      "effectiveDate": "2026-10-13T00:00:00+00:00",
+      "expiryDate": "2026-10-14T00:00:00+00:00",
+      "hasCatalog": true
+    },
+    {
+      "tenant": "4b0fac47-ec9c-4c97-987f-d939296bcc74",
+      "region_id": "centralus",
+      "cluster_index": null,
+      "name": "HVC-RIDe7ab-rem_garbage_bearer-40403e7f",
+      "type": "External",
+      "ownerName": "Havoc Researcher",
+      "ownerEmail": "havocrabbb46d12d9201@guerrillamailblock.com",
+      "ownerDomain": "guerrillamailblock.com",
+      "contractNumber": "554f1fdd41554396a8259e8e8f95df77",
+      "effectiveDate": "2026-10-13T00:00:00+00:00",
+      "expiryDate": "2026-10-14T00:00:00+00:00",
+      "hasCatalog": true
+    },
+    {
+      "tenant": "6c1b175a-8a80-48f7-a935-53770d7783be",
+      "region_id": "centralus",
+      "cluster_index": null,
+      "name": "HVC-RIDe7ab-rem_absent_bearer-0986de6d",
+      "type": "External",
+      "ownerName": "Havoc Researcher",
+      "ownerEmail": "havocrabbb46d12d9201@guerrillamailblock.com",
+      "ownerDomain": "guerrillamailblock.com",
+      "contractNumber": "554f1fdd41554396a8259e8e8f95df77",
+      "effectiveDate": "2026-10-13T00:00:00+00:00",
+      "expiryDate": "2026-10-14T00:00:00+00:00",
+      "hasCatalog": true
+    },
+    {
+      "tenant": "f8592974-0b38-4654-9b66-25052b1b3e01",
+      "region_id": "centralus",
+      "cluster_index": null,
+      "name": "HVC-RIDe7ab-rem_cross_service_base-87c05e89",
+      "type": "External",
+      "ownerName": "Havoc Researcher",
+      "ownerEmail": "havocrabbb46d12d9201@guerrillamailblock.com",
+      "ownerDomain": "guerrillamailblock.com",
+      "contractNumber": "554f1fdd41554396a8259e8e8f95df77",
+      "effectiveDate": "2026-10-13T00:00:00+00:00",
+      "expiryDate": "2026-10-14T00:00:00+00:00",
       "hasCatalog": true
     }
   ]
