@@ -1,11 +1,11 @@
 window.__ORGS__ = {
   "environment": "demo",
-  "generatedAt": "2026-10-14T08:02:48Z",
+  "generatedAt": "2026-10-15T08:02:54Z",
   "summary": {
-    "total": 35,
+    "total": 34,
     "internal": 1,
-    "external": 34,
-    "withCatalog": 30
+    "external": 33,
+    "withCatalog": 24
   },
   "organizations": [
     {
@@ -121,20 +121,6 @@ window.__ORGS__ = {
       "hasCatalog": true
     },
     {
-      "tenant": "0658fd00-2821-44d9-9df2-854e9da2d4b7",
-      "region_id": "centralus",
-      "cluster_index": "001",
-      "name": "Demo Organization r205123-o1",
-      "type": "External",
-      "ownerName": "Owner Demouser",
-      "ownerEmail": "owner.r205123-o1@demo.com",
-      "ownerDomain": "demo.com",
-      "contractNumber": "2ce3433e79ad4210aa3357aa2d092977",
-      "effectiveDate": "2026-10-06T00:00:00+00:00",
-      "expiryDate": "2026-10-10T00:00:00+00:00",
-      "hasCatalog": false
-    },
-    {
       "tenant": "415fd718-64fc-4832-888d-65033ba28f79",
       "region_id": "centralus",
       "cluster_index": "001",
@@ -216,7 +202,7 @@ window.__ORGS__ = {
       "contractNumber": "5e6a5f4a2a234cefbe8bf09f13b6c300",
       "effectiveDate": "2026-10-11T00:00:00+00:00",
       "expiryDate": "2026-10-14T00:00:00+00:00",
-      "hasCatalog": true
+      "hasCatalog": false
     },
     {
       "tenant": "27263c58-27ec-4023-9334-ed4ae5f71756",
@@ -230,7 +216,7 @@ window.__ORGS__ = {
       "contractNumber": "444826a4c38942cab2a2b98de0bafd68",
       "effectiveDate": "2026-10-11T00:00:00+00:00",
       "expiryDate": "2026-10-14T00:00:00+00:00",
-      "hasCatalog": true
+      "hasCatalog": false
     },
     {
       "tenant": "5d888d6f-0770-40c9-9cde-1bdb160d8984",
@@ -244,7 +230,7 @@ window.__ORGS__ = {
       "contractNumber": "75a2a92f6d6e4275a0640cd09930053e",
       "effectiveDate": "2026-10-11T00:00:00+00:00",
       "expiryDate": "2026-10-14T00:00:00+00:00",
-      "hasCatalog": true
+      "hasCatalog": false
     },
     {
       "tenant": "718c8eb5-96d3-4061-b9a0-a3d015310fc5",
@@ -258,7 +244,7 @@ window.__ORGS__ = {
       "contractNumber": "f350e1f808a84d76bd34df191bc631fc",
       "effectiveDate": "2026-10-11T00:00:00+00:00",
       "expiryDate": "2026-10-14T00:00:00+00:00",
-      "hasCatalog": true
+      "hasCatalog": false
     },
     {
       "tenant": "341751a2-2c63-484c-af61-c453420e54c3",
@@ -286,7 +272,7 @@ window.__ORGS__ = {
       "contractNumber": "d7b90946480d48b0bdc00ed74866f72f",
       "effectiveDate": "2026-10-13T00:00:00+00:00",
       "expiryDate": "2026-10-14T00:00:00+00:00",
-      "hasCatalog": true
+      "hasCatalog": false
     },
     {
       "tenant": "9d2ff9c1-c8ac-43fd-8355-3bfefd6a3682",
@@ -300,7 +286,7 @@ window.__ORGS__ = {
       "contractNumber": "756e8f75c0584e43b57df61cbc112024",
       "effectiveDate": "2026-10-13T00:00:00+00:00",
       "expiryDate": "2026-10-14T00:00:00+00:00",
-      "hasCatalog": true
+      "hasCatalog": false
     },
     {
       "tenant": "4b0fac47-ec9c-4c97-987f-d939296bcc74",
