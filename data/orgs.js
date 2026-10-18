@@ -1,11 +1,11 @@
 window.__ORGS__ = {
   "environment": "demo",
-  "generatedAt": "2026-10-17T08:02:34Z",
+  "generatedAt": "2026-10-18T08:02:29Z",
   "summary": {
     "total": 37,
     "internal": 1,
     "external": 36,
-    "withCatalog": 19
+    "withCatalog": 14
   },
   "organizations": [
     {
@@ -258,7 +258,7 @@ window.__ORGS__ = {
       "contractNumber": "7f0817b6f1a24a7d864997d17c74695f",
       "effectiveDate": "2026-10-12T00:00:00+00:00",
       "expiryDate": "2026-10-17T00:00:00+00:00",
-      "hasCatalog": true
+      "hasCatalog": false
     },
     {
       "tenant": "5a02af6b-180e-4a09-97c1-5885cbbda068",
@@ -454,7 +454,7 @@ window.__ORGS__ = {
       "contractNumber": "0c78cf53024a4784b72184495ee89281",
       "effectiveDate": "2026-10-13T00:00:00+00:00",
       "expiryDate": "2026-10-17T00:00:00+00:00",
-      "hasCatalog": true
+      "hasCatalog": false
     },
     {
       "tenant": "657ccee7-c9b5-4a36-85f7-b150d3a64428",
@@ -468,7 +468,7 @@ window.__ORGS__ = {
       "contractNumber": "cc0a63b1fd5b4439b3b9a9d95755f079",
       "effectiveDate": "2026-10-13T00:00:00+00:00",
       "expiryDate": "2026-10-17T00:00:00+00:00",
-      "hasCatalog": true
+      "hasCatalog": false
     },
     {
       "tenant": "46a481f5-2eab-4d57-8c14-639a996caf91",
@@ -510,7 +510,7 @@ window.__ORGS__ = {
       "contractNumber": "d3d21307a5a04081882101770cdf1345",
       "effectiveDate": "2026-10-16T00:00:00+00:00",
       "expiryDate": "2026-10-17T00:00:00+00:00",
-      "hasCatalog": true
+      "hasCatalog": false
     },
     {
       "tenant": "b729d91d-1cf9-49c9-9554-ed0cdf3eab99",
@@ -524,7 +524,7 @@ window.__ORGS__ = {
       "contractNumber": "3e22f37dd2c3412ca848f9506c863305",
       "effectiveDate": "2026-10-16T00:00:00+00:00",
       "expiryDate": "2026-10-17T00:00:00+00:00",
-      "hasCatalog": true
+      "hasCatalog": false
     }
   ]
 };
