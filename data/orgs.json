@@ -1,11 +1,11 @@
 {
   "environment": "demo",
-  "generatedAt": "2026-10-24T08:02:45Z",
+  "generatedAt": "2026-10-25T08:02:40Z",
   "summary": {
     "total": 45,
     "internal": 1,
     "external": 44,
-    "withCatalog": 14
+    "withCatalog": 12
   },
   "organizations": [
     {
@@ -608,7 +608,7 @@
       "contractNumber": "953c31ce113b4fec84b767a3ab2c6799",
       "effectiveDate": "2026-10-23T00:00:00+00:00",
       "expiryDate": "2026-10-24T00:00:00+00:00",
-      "hasCatalog": true
+      "hasCatalog": false
     },
     {
       "tenant": "57445b05-c179-4497-ba0a-f1435e5b80a1",
@@ -622,7 +622,7 @@
       "contractNumber": "b3641f0fa1b94db98e98bde13e4eb76a",
       "effectiveDate": "2026-10-23T00:00:00+00:00",
       "expiryDate": "2026-10-24T00:00:00+00:00",
-      "hasCatalog": true
+      "hasCatalog": false
     },
     {
       "tenant": "ee5aea47-45c0-4420-a6a8-01ce27a90fb0",
