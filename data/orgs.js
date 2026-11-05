@@ -1,11 +1,11 @@
 window.__ORGS__ = {
   "environment": "demo",
-  "generatedAt": "2026-11-04T08:02:20Z",
+  "generatedAt": "2026-11-05T08:02:06Z",
   "summary": {
-    "total": 28,
-    "internal": 2,
+    "total": 27,
+    "internal": 1,
     "external": 26,
-    "withCatalog": 28
+    "withCatalog": 27
   },
   "organizations": [
     {
@@ -342,20 +342,6 @@ window.__ORGS__ = {
       "contractNumber": "aabb6c0ea8fc4970bd1ab7d7efddb480",
       "effectiveDate": "2026-10-26T00:00:00+00:00",
       "expiryDate": "2027-01-01T00:00:00+00:00",
-      "hasCatalog": true
-    },
-    {
-      "tenant": "39088562-597a-4a25-b7ec-3e82a564006c",
-      "region_id": "centralus",
-      "cluster_index": "001",
-      "name": "Demo FAT 2.07",
-      "type": "Internal",
-      "ownerName": "Laura Alejandra Quintero",
-      "ownerEmail": "lauraalejandra.quintero@rockwellautomation.com",
-      "ownerDomain": "rockwellautomation.com",
-      "contractNumber": "204e29be645e4e1d982852714f568b1f",
-      "effectiveDate": "2026-10-30T00:00:00+00:00",
-      "expiryDate": "2027-10-30T00:00:00+00:00",
       "hasCatalog": true
     },
     {
