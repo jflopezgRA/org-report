@@ -1,10 +1,10 @@
 {
   "environment": "demo",
-  "generatedAt": "2026-11-11T08:02:06Z",
+  "generatedAt": "2026-11-12T08:02:20Z",
   "summary": {
-    "total": 27,
+    "total": 26,
     "internal": 1,
-    "external": 26,
+    "external": 25,
     "withCatalog": 26
   },
   "organizations": [
@@ -315,20 +315,6 @@
       "effectiveDate": "2026-10-26T00:00:00+00:00",
       "expiryDate": "2027-01-01T00:00:00+00:00",
       "hasCatalog": true
-    },
-    {
-      "tenant": "659d4dbc-9199-4ec0-bdc2-f886445413c3",
-      "region_id": "centralus",
-      "cluster_index": "001",
-      "name": "Demo Organization oncourse-manticore7",
-      "type": "External",
-      "ownerName": "Owner Demouser",
-      "ownerEmail": "owner.oncourse-manticore7@demo.com",
-      "ownerDomain": "demo.com",
-      "contractNumber": "461feaff935b45e888a62689610514d7",
-      "effectiveDate": "2026-10-27T00:00:00+00:00",
-      "expiryDate": "2026-11-10T00:00:00+00:00",
-      "hasCatalog": false
     },
     {
       "tenant": "d8abd475-df36-4daf-8518-4ed539bfb5b4",
