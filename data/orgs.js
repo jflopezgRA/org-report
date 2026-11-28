@@ -1,11 +1,11 @@
 window.__ORGS__ = {
   "environment": "demo",
-  "generatedAt": "2026-11-27T08:02:05Z",
+  "generatedAt": "2026-11-28T08:01:42Z",
   "summary": {
     "total": 44,
     "internal": 1,
     "external": 43,
-    "withCatalog": 39
+    "withCatalog": 37
   },
   "organizations": [
     {
@@ -440,7 +440,7 @@ window.__ORGS__ = {
       "contractNumber": "1ba425e629ad4f0fbe71ef29feb5ae7b",
       "effectiveDate": "2026-11-23T00:00:00+00:00",
       "expiryDate": "2026-11-27T00:00:00+00:00",
-      "hasCatalog": true
+      "hasCatalog": false
     },
     {
       "tenant": "0d9c63f2-eac2-49fe-bb49-665f5cbfb3b4",
@@ -510,7 +510,7 @@ window.__ORGS__ = {
       "contractNumber": "8f915b700fd34b46a8cb7af22b9f92cd",
       "effectiveDate": "2026-11-25T13:49:01.8670171+00:00",
       "expiryDate": "2026-11-27T13:52:55.91+00:00",
-      "hasCatalog": true
+      "hasCatalog": false
     },
     {
       "tenant": "f37d09a0-2a1b-46bf-b2c5-ee7069758045",
